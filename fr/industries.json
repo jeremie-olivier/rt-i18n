@@ -1,0 +1,82 @@
+[{
+	"id": "administrative",
+	"name": "Administratif"
+}, {
+	"id": "architecture_engineering",
+	"name": "Architecture et Ingénierie"
+}, {
+	"id": "arts_entertainment_sports_media",
+	"name": "Arts, Spectacles, Sports et Médias"
+}, {
+	"id": "business_financial_operations",
+	"name": "Affaires et Opérations Financières"
+}, {
+	"id": "cleaning_maintenance",
+	"name": "Nettoyage et Entretien"
+}, {
+	"id": "community_social_services",
+	"name": "Services Sociaux et Communautaires"
+}, {
+	"id": "computer_mathematics",
+	"name": "Informatique et Mathématiques"
+}, {
+	"id": "construction_extraction",
+	"name": "Construction et Extraction"
+}, {
+	"id": "education_library",
+	"name": "Education et Bibliothèque"
+}, {
+	"id": "farming_fishing_forestry",
+	"name": "Agriculture, Pêche et Foresterie"
+}, {
+	"id": "food_preparation_services",
+	"name": "Préparation et Services Alimentaires"
+}, {
+	"id": "government_employees",
+	"name": "Employés du gouvernement"
+}, {
+	"id": "healthcare_medical",
+	"name": "Santé et Médical"
+}, {
+	"id": "it_technical",
+	"name": "IT et Technique"
+}, {
+	"id": "installation_repair",
+	"name": "Installation et Réparation"
+}, {
+	"id": "legal",
+	"name": "Droit"
+}, {
+	"id": "life_physical_social_science",
+	"name": "Vie, Physique et Sciences Sociales"
+}, {
+	"id": "management",
+	"name": "Gestion"
+}, {
+	"id": "military",
+	"name": "Militaire"
+}, {
+	"id": "nurses",
+	"name": "Infirmier / Infirmière"
+}, {
+	"id": "personal_care",
+	"name": "Aide à la Personne"
+}, {
+	"id": "production",
+	"name": "Production, Fabrication, Réalisation"
+}, {
+	"id": "protective_service",
+	"name": "Service de Sécurité"
+}, {
+	"id": "retail",
+	"name": "Vente au Détail"
+}, {
+	"id": "sales",
+	"name": "Ventes"
+}, {
+	"id": "temporary_seasonal",
+	"name": "Temporaire et Saisonnier"
+}, {
+	"id": "transportation_moving",
+	"name": "Transport et Déménagement"
+}]

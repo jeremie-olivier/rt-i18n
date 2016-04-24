@@ -1,0 +1,23 @@
+[
+	{"id":"action_games","name":"Jeux d'Action"},
+	{"id":"board_games","name":"Jeux de Société"},
+	{"id":"browser_games","name":"Jeux par navigateur"},
+	{"id":"cards_games","name":"Jeux de Cartes"},
+	{"id":"casino_games","name":"Casino"},
+	{"id":"first_person_shooter","name":"Doom-like / FPS"},
+	{"id":"gambling","name":"Paris en Ligne"},
+	{"id":"multiplayer_games","name":"Jeux multi-joueurs"},
+	{"id":"multiplayer_role_games","name":"Jeux de Rôle multi-joueurs"},
+	{"id":"online_games","name":"Jeux en Ligne"},
+	{"id":"online_poker","name":"Poker en Ligne"},
+	{"id":"puzzle_video_games","name":"Jeux de Casse-tête Vidéo"},
+	{"id":"racing_games","name":"Jeux de Course"},
+	{"id":"role_playing_games","name":"Jeux de Rôles"},
+	{"id":"shooter_games","name":"Jeux de Tir"},
+	{"id":"simulation_games","name":"Simulation Games"},
+	{"id":"sports_games","name":"Jeux de Sports"},
+	{"id":"strategy_games","name":"Jeux de Stratégie"},
+	{"id":"video_games","name":"Jeux Vidéo"},
+	{"id":"war_games","name":"Jeux de Guerre"},
+	{"id":"word_games","name":"Jeux de Mots"}
+]

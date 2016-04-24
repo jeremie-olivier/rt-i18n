@@ -1,0 +1,8 @@
+[
+	{"id":"coffeehouses","name":"Coffeehouses"},
+	{"id":"fast_casual_restaurants","name":"Fast Casual Restaurants"},
+	{"id":"fast_food_restaurants","name":"Fast Food Restaurants"},
+	{"id":"dinners","name":"Dinners"},
+	{"id":"pub","name":"Pub"},
+	{"id":"gourmet_restaurants","name":"Gourmet Restaurants"}
+]

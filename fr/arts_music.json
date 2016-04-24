@@ -1,0 +1,15 @@
+[
+	{"id":"acting","name":"Acteur / Actrice"},
+	{"id":"crafts","name":"Crafts"},
+	{"id":"dance","name":"Danse"},
+	{"id":"drawing","name":"Dessin"},
+	{"id":"drums","name":"Percussions"},
+	{"id":"fine_art","name":"Beaux-arts"},
+	{"id":"guitar","name":"Guitare"},
+	{"id":"painting","name":"Peinture"},
+	{"id":"performing_arts","name":"Arts de Performance"},
+	{"id":"photography","name":"Photographie"},
+	{"id":"sculpture","name":"Sculpture"},
+	{"id":"singing","name":"Chant"},
+	{"id":"writing","name":"Écriture"}
+]

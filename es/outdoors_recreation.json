@@ -1,0 +1,10 @@
+[
+	{"id":"boating","name":"Paseo en barco"},
+	{"id":"camping","name":"Camping"},
+	{"id":"fishing","name":"Pesca"},
+	{"id":"hiking","name":"Excursión"},
+	{"id":"horseback_riding","name":"Paseo en Caballo"},
+	{"id":"hunting","name":"Caza"},
+	{"id":"mountain_biking","name":"Bicicleta de Montaña"},
+	{"id":"surfing","name":"Surf"}
+]

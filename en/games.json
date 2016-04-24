@@ -1,0 +1,23 @@
+[
+	{"id":"action_games","name":"Action Games"},
+	{"id":"board_games","name":"Board Games"},
+	{"id":"browser_games","name":"Browser Games"},
+	{"id":"cards_games","name":"Cards Games"},
+	{"id":"casino_games","name":"Casino Games"},
+	{"id":"first_person_shooter","name":"First-person shooter"},
+	{"id":"gambling","name":"Gambling"},
+	{"id":"multiplayer_games","name":"Multiplayer Games"},
+	{"id":"multiplayer_role_games","name":"Multiplayer Role Games"},
+	{"id":"online_games","name":"Online Games"},
+	{"id":"online_poker","name":"Online Poker"},
+	{"id":"puzzle_video_games","name":"Puzzle Video Games"},
+	{"id":"racing_games","name":"Racing Games"},
+	{"id":"role_playing_games","name":"Role-playing Games"},
+	{"id":"shooter_games","name":"Shooter Games"},
+	{"id":"simulation_games","name":"Simulation Games"},
+	{"id":"sports_games","name":"Sports Games"},
+	{"id":"strategy_games","name":"Strategy Games"},
+	{"id":"video_games","name":"Video Games"},
+	{"id":"war_games","name":"War Games"},
+	{"id":"word_games","name":"Word Games"}
+]

@@ -1,0 +1,82 @@
+[{
+	"id": "administrative",
+	"name": "Administración"
+}, {
+	"id": "architecture_engineering",
+	"name": "Arquitectura e Ingeniería"
+}, {
+	"id": "arts_entertainment_sports_media",
+	"name": "Artes, Espectáculos, Deportes y medios de comunicación"
+}, {
+	"id": "business_financial_operations",
+	"name": "Negocios y Operaciones Financieras"
+}, {
+	"id": "cleaning_maintenance",
+	"name": "Limpieza y Mantenimiento"
+}, {
+	"id": "community_social_services",
+	"name": "Servicios Sociales y Comunitarios"
+}, {
+	"id": "computer_mathematics",
+	"name": "Informática y Matemáticas"
+}, {
+	"id": "construction_extraction",
+	"name": "Construcción y Extracción"
+}, {
+	"id": "education_library",
+	"name": "Educación y Biblioteca"
+}, {
+	"id": "farming_fishing_forestry",
+	"name": "Agricultura, Pesca y Silvicultura"
+}, {
+	"id": "food_preparation_services",
+	"name": "Preparation y Servicios de comida"
+}, {
+	"id": "government_employees",
+	"name": "Empleados del Gobierno"
+}, {
+	"id": "healthcare_medical",
+	"name": "Salud y Medicina"
+}, {
+	"id": "it_technical",
+	"name": "IT"
+}, {
+	"id": "installation_repair",
+	"name": "Instalación y Reparación"
+}, {
+	"id": "legal",
+	"name": "Derecho"
+}, {
+	"id": "life_physical_social_science",
+	"name": "Vida y Ciencias Sociales"
+}, {
+	"id": "management",
+	"name": "Administración"
+}, {
+	"id": "military",
+	"name": "Militar"
+}, {
+	"id": "nurses",
+	"name": "Enfermero / Enfermera"
+}, {
+	"id": "personal_care",
+	"name": "Cuidado Personal"
+}, {
+	"id": "production",
+	"name": "Producción, Fabricación y Realización"
+}, {
+	"id": "protective_service",
+	"name": "Servicio de Seguridad"
+}, {
+	"id": "retail",
+	"name": "Venta al por Menor"
+}, {
+	"id": "sales",
+	"name": "Ventas"
+}, {
+	"id": "temporary_seasonal",
+	"name": "Estacional y Temporal"
+}, {
+	"id": "transportation_moving",
+	"name": "Transportes y Mudanzas"
+}]

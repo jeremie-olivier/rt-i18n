@@ -1,0 +1,13 @@
+[
+	{"id":"books","name":"Livres"},
+	{"id":"comics","name":"Bandes Dessinées"},
+	{"id":"ebooks","name":"Livres Électroniques"},
+	{"id":"fiction_books","name":"Livres de Fiction"},
+	{"id":"literature","name":"Littérature"},
+	{"id":"magazines","name":"Magazines"},
+	{"id":"manga","name":"Manga"},
+	{"id":"mystery_fiction","name":"Fiction Mystère"},
+	{"id":"newspapers","name":"Journaux"},
+	{"id":"romance_novels","name":"Romans d'Amour"},
+	{"id":"novels","name":"Romans"}
+]

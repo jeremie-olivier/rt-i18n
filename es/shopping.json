@@ -1,0 +1,8 @@
+[
+	{"id":"boutiques","name":"Boutiques"},
+	{"id":"coupons","name":"Cupones"},
+	{"id":"discount_stores","name":"Tiendas de Descuento"},
+	{"id":"luxury_goods","name":"Productos de Lujo"},
+	{"id":"online_shopping","name":"Compras en Línea"},
+	{"id":"shopping_malls","name":"Centros Comerciales"}
+]

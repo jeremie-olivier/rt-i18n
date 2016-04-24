@@ -1,0 +1,13 @@
+[
+	{"id":"computer_memory","name":"Mémoire Ordinateur"},
+	{"id":"computer_monitors","name":"Écrans d'Ordinateur"},
+	{"id":"computer_processors","name":"Processeurs d'Ordinateur"},
+	{"id":"computer_servers","name":"Ordinateurs Serveurs"},
+	{"id":"desktop_computers","name":"Ordinateurs de Bureau"},
+	{"id":"laptop_computers","name":"Ordinateurs Portables"},
+	{"id":"free_software","name":"Logiciels Gratuits"},
+	{"id":"hard_drives","name":"Disques Durs"},
+	{"id":"network_storage","name":"Stockage Réseau"},
+	{"id":"software","name":"Logiciels"},
+	{"id":"tablet_computers","name":"Ordinateurs Tablette"}
+]

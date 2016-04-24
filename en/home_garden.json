@@ -1,0 +1,7 @@
+[
+	{"id":"diy","name":"Do it yourself (DIY)"},
+	{"id":"furniture","name":"Furniture"},
+	{"id":"gardening","name":"Gardening"},
+	{"id":"home_appliances","name":"Home Appliances"},
+	{"id":"home_improvement","name":"Home Improvement"}
+]

@@ -1,0 +1,31 @@
+[{
+	"id": "digital_marketing",
+	"name": "Marketing Digital"
+}, {
+	"id": "display_advertising",
+	"name": "Affichage Publicitaire"
+}, {
+	"id": "email_marketing",
+	"name": "Email Marketing"
+}, {
+	"id": "online_advertising",
+	"name": "Publicité en Ligne"
+}, {
+	"id": "search_engine_optimization",
+	"name": "Référencement"
+}, {
+	"id": "social_media",
+	"name": "Media Sociaux"
+}, {
+	"id": "social_media_marketing",
+	"name": "Marketing des Médias Sociaux"
+}, {
+	"id": "web_design",
+	"name": "Web Design"
+}, {
+	"id": "web_development",
+	"name": "Développement Web"
+}, {
+	"id": "web_hosting",
+	"name": "Hébergement Web"
+}]

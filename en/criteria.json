@@ -1,0 +1,373 @@
+{
+	"Demographics": {
+		"relationship": {
+			"name": "Relationship Status", 
+			"multiple": "1",
+			"choice": "single"
+		},
+		"sex_orientation": {
+			"name": "Sex Orientation", 
+			"multiple": "1",
+			"choice": "single"
+		},
+		"housing_status": {
+			"name": "Housing Status", 
+			"multiple": "1",
+			"choice": "single"
+		},
+		"housing": {
+			"name": "Housing", 
+			"multiple": "1",
+			"choice": "single"
+		},
+		"children": {
+			"name": "Children", 
+			"multiple": "1",
+			"choice": "single"
+		},
+		"job_titles": {
+			"name": "Job Title", 
+			"multiple": "1",
+			"choice": "single"
+		},
+		"industries": {
+			"name": "Industries", 
+			"multiple": "1",
+			"choice": "single"
+		},
+		"incomes": {
+			"name": "Incomes", 
+			"multiple": "1",
+			"choice": "single"
+		},
+		"languages": {
+			"name": "Spoken Languages", 
+			"multiple": "1",
+			"choice": "multiple"
+		}
+	},
+	"brands_products": {
+		"name": "Brands / Products",
+		"icon": "ion-android-star",
+		"brands_products_technology": {
+			"name": "Technology",
+			"multiple": "1"
+		},
+		"brands_products_food": {
+			"name": "Food", 
+			"multiple": "1"
+		}
+	},
+	"business_industries": {
+		"name": "Business / Industries",
+		"icon": "ion-ios-briefcase",
+		"advertising": {
+			"name": "Advertising",
+			"multiple": "0"
+		},
+		"agriculture": {
+			"name": "Agriculture", 
+			"multiple": "0"
+		},
+		"architecture": {
+			"name": "Architecture", 
+			"multiple": "0"
+		},
+		"aviation": {
+			"name": "Aviation", 
+			"multiple": "0"
+		},
+		"banking": {
+			"name": "Banking", 
+			"multiple": "1"
+		},
+		"business": {
+			"name": "Business", 
+			"multiple": "0"
+		},
+		"construction": {
+			"name": "Construction", 
+			"multiple": "0"
+		},
+		"design": {
+			"name": "Design", 
+			"multiple": "1"
+		},
+		"economics": {
+			"name": "Economics", 
+			"multiple": "0"
+		},
+		"engineering": {
+			"name": "Engineering", 
+			"multiple": "0"
+		},
+		"entrepreneurship": {
+			"name": "Entrepreneurship", 
+			"multiple": "0"
+		},
+		"health_care": {
+			"name": "Health Care", 
+			"multiple": "0"
+		},
+		"higher_education": {
+			"name": "Higher Education", 
+			"multiple": "0"
+		},
+		"management": {
+			"name": "Management", 
+			"multiple": "0"
+		},
+		"marketing": {
+			"name": "Marketing", 
+			"multiple": "0"
+		},
+		"nursing": {
+			"name": "Nursing", 
+			"multiple": "0"
+		},
+		"online": {
+			"name": "Online", 
+			"multiple": "1"
+		},
+		"personal_finance": {
+			"name": "Personal Finance", 
+			"multiple": "1"
+		},
+		"real_estate": {
+			"name": "Real Estate", 
+			"multiple": "0"
+		},
+		"retail": {
+			"name": "Retail", 
+			"multiple": "0"
+		},
+		"sales": {
+			"name": "Sales", 
+			"multiple": "0"
+		},
+		"sciences": {
+			"name": "Sciences", 
+			"multiple": "0"
+		},
+		"small_business": {
+			"name": "Small Business", 
+			"multiple": "0"
+		}
+	},
+	"entertainment": {
+		"name": "Entertainment",
+		"icon": "ion-film-marker",
+		"games": {
+			"name": "Games", 
+			"multiple": "1"
+		},
+		"live_events": {
+			"name": "Live Events", 
+			"multiple": "1"
+		},
+		"music": {
+			"name": "Music", 
+			"multiple": "1"
+		},
+		"movies": {
+			"name": "Movies", 
+			"multiple": "1"
+		},
+		"reading": {
+			"name": "Reading", 
+			"multiple": "1"
+		},
+		"tv": {
+			"name": "TV", 
+			"multiple": "1"
+		}
+	},
+	"family_relationship": {
+		"name": "Family / Relationship",
+		"icon": "ion-ios-people",
+		"dating": {
+			"name": "Dating", 
+			"multiple": "0"
+		},
+		"family": {
+			"name": "Family", 
+			"multiple": "0"
+		},
+		"fatherhood": {
+			"name": "Fatherhood", 
+			"multiple": "0"
+		},
+		"friendship": {
+			"name": "Friendship", 
+			"multiple": "0"
+		},
+		"mariage": {
+			"name": "Mariage", 
+			"multiple": "0"
+		},
+		"motherhood": {
+			"name": "Motherhood", 
+			"multiple": "0"
+		},
+		"parenting": {
+			"name": "Parenting", 
+			"multiple": "0"
+		},
+		"weddings": {
+			"name": "Weddings", 
+			"multiple": "0"
+		}
+	},
+	"fitness_wellness": {
+		"name": "Fitness / Wellness",
+		"icon": "ion-ios-pulse-strong",
+		"bodybuilding": {
+			"name": "Bodybuilding", 
+			"multiple": "0"
+		},
+		"dieting": {
+			"name": "Dieting", 
+			"multiple": "0"
+		},
+		"gyms": {
+			"name": "Gyms", 
+			"multiple": "0"
+		},
+		"meditation": {
+			"name": "Meditation", 
+			"multiple": "0"
+		},
+		"nutrition": {
+			"name": "Nutrition", 
+			"multiple": "0"
+		},
+		"physical_exercises": {
+			"name": "Physical Excercises", 
+			"multiple": "0"
+		},
+		"physical_fitness": {
+			"name": "Physical Fitness", 
+			"multiple": "0"
+		},
+		"running": {
+			"name": "Running", 
+			"multiple": "0"
+		},
+		"weight_training": {
+			"name": "Weight Training", 
+			"multiple": "0"
+		},
+		"yoga": {
+			"name": "Yoga", 
+			"multiple": "0"
+		},
+		"zumba": {
+			"name": "Zumba", 
+			"multiple": "0"
+		}
+	},
+	"food_drink": {
+		"name": "Food / Drink",
+		"icon": "ion-android-restaurant",
+		"alcoholic_beverages": {
+			"name": "Alcoholic Beverages", 
+			"multiple": "1"
+		},
+		"beverages": {
+			"name": "Beverages", 
+			"multiple": "1"
+		},
+		"cooking": {
+			"name": "Cooking", 
+			"multiple": "1"
+		},
+		"cuisine": {
+			"name": "Cuisine", 
+			"multiple": "1"
+		},
+		"food": {
+			"name": "Food", 
+			"multiple": "1"
+		},
+		"restaurants": {
+			"name": "Restaurants", 
+			"multiple": "1"
+		}
+	},
+	"hobbies_activities": {
+		"name": "Hobbies / Activities",
+		"icon": "ion-plane",
+		"arts_music": {
+			"name": "Arts / Music", 
+			"multiple": "1"
+		},
+		"home_garden": {
+			"name": "Home / Garden", 
+			"multiple": "1"
+		},
+		"pets": {
+			"name": "Pets", 
+			"multiple": "1"
+		},
+		"politics_social_issues": {
+			"name": "Politics / Social Issues", 
+			"multiple": "1"
+		},
+		"travel": {
+			"name": "Travel", 
+			"multiple": "1"
+		},
+		"vehicles": {
+			"name": "Vehicles", 
+			"multiple": "1"
+		}
+	},
+	"shopping_fashion": {
+		"name": "Shopping / Fashion",
+		"icon": "ion-ios-cart",
+		"beauty": {
+			"name": "Beauty", 
+			"multiple": "1"
+		},
+		"clothing": {
+			"name": "Clothing", 
+			"multiple": "1"
+		},
+		"fashion_accessories": {
+			"name": "Fashion Accessories", 
+			"multiple": "1"
+		},
+		"shopping": {
+			"name": "Shopping", 
+			"multiple": "1"
+		},
+		"toys": {
+			"name": "Toys", 
+			"multiple": "0"
+		}
+	},
+	"sports_outdoors": {
+		"name": "Sports / Outdoors",
+		"icon": "ion-ios-americanfootball",
+		"outdoors_recreation": {
+			"name": "Outdoors Recreation", 
+			"multiple": "1"
+		},
+		"sports": {
+			"name": "Sports", 
+			"multiple": "1"
+		}
+	},
+	"technology": {
+		"name": "Technology",
+		"icon": "ion-android-settings",
+		"computers": {
+			"name": "Computers", 
+			"multiple": "1"
+		},
+		"consumer_eletronics": {
+			"name": "Consumer Electronics", 
+			"multiple": "1"
+		}
+	}
+}

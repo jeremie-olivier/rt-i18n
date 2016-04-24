@@ -1,0 +1,13 @@
+[
+	{"id":"computer_memory","name":"Computer memory"},
+	{"id":"computer_monitors","name":"Computer monitors"},
+	{"id":"computer_processors","name":"Computer processors"},
+	{"id":"computer_servers","name":"Computer servers"},
+	{"id":"desktop_computers","name":"Desktop Computers"},
+	{"id":"laptop_computers","name":"Laptop Computers"},
+	{"id":"free_software","name":"Free software"},
+	{"id":"hard_drives","name":"Hard drives"},
+	{"id":"network_storage","name":"Network Storage"},
+	{"id":"software","name":"Software"},
+	{"id":"tablet_computers","name":"Tablet Computers"}
+]

@@ -1,0 +1,7 @@
+[
+	{"id":"credit_cards","name":"Cartes de Crédit"},
+	{"id":"insurance","name":"Assurance"},
+	{"id":"investment","name":"Investissement"},
+	{"id":"loans","name":"Prêts"},
+	{"id":"mortgage_loans","name":"Prêts Hypothécaires"}
+]

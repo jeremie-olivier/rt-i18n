@@ -1,0 +1,8 @@
+[
+	{"id":"coffeehouses","name":"Café"},
+	{"id":"fast_casual_restaurants","name":"Restaurantes Informales"},
+	{"id":"fast_food_restaurants","name":"Restaurantes de comida rápida"},
+	{"id":"dinners","name":"Cafeterías"},
+	{"id":"pub","name":"Bares"},
+	{"id":"gourmet_restaurants","name":"Restaurantes Gastronómicos"}
+]

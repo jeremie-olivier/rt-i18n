@@ -1,0 +1,14 @@
+[
+	{"id":"automobiles","name":"Automoviles"},
+	{"id":"boats","name":"Barcos"},
+	{"id":"electric_vehicles","name":"Vehiculos Electricos"},
+	{"id":"hybrids","name":"Hibridos"},
+	{"id":"luxury_cars","name":"Carros de Lujo"},
+	{"id":"minivans","name":"Minivan"},
+	{"id":"motorcycles","name":"Moto"},
+	{"id":"rv","name":"Carro de acampar"},
+	{"id":"sport_cars","name":"Carros Deportivos"},
+	{"id":"suv","name":"SUVs"},
+	{"id":"scooters","name":"Scooters"},
+	{"id":"trucks","name":"Camiones"}
+]

@@ -1,0 +1,17 @@
+[
+	{"id":"chinese_cuisine","name":"Cocina China"},
+	{"id":"french_cuisine","name":"Cocina Francesa"},
+	{"id":"german_cuisine","name":"Cocina Alemana"},
+	{"id":"american_cuisine","name":"Cocina Americana"},
+	{"id":"greek","name":"Cocina Greca"},
+	{"id":"india_cuisine","name":"Cocina India"},
+	{"id":"italian_cuisine","name":"Cocina Italiana"},
+	{"id":"japanese_cuisine","name":"Cocina Japonesa"},
+	{"id":"korean_cuisine","name":"Cocina Coreana"},
+	{"id":"latin_american_cuisine","name":"Cocina Latinoamericana"},
+	{"id":"mexican_cuisine","name":"Cocina Mexicana"},
+	{"id":"middle_eastern_cuisine","name":"Cocina del Medio Oriente"},
+	{"id":"spanish_cuisine","name":"Cocina Española"},
+	{"id":"thai_cuisine","name":"Cocina Tailandesa"},
+	{"id":"vietnamese_cuisine","name":"Cocina Vietnamita"}
+]

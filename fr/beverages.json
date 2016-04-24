@@ -1,0 +1,7 @@
+[
+	{"id":"coffee","name":"Café"},
+	{"id":"energy_drinks","name":"Boissons énergisantes"},
+	{"id":"juice","name":"Jus"},
+	{"id":"soft_drinks","name":"Boissons non-alcoolisées"},
+	{"id":"tea","name":"Thé"}
+]

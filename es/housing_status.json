@@ -1,0 +1,8 @@
+[
+	{"id":"tenant","name":"Inquilino"},
+	{"id":"owner","name":"Propietario"},
+	{"id":"part_owner","name":"Copropietario"},
+	{"id":"roommate","name":"Compañero de cuarto"},
+	{"id":"with_parents","name":"Casa de Padres"},
+	{"id":"free_occupation","name":"Ocupación Gratuita"}
+]

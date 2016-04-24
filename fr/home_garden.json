@@ -1,0 +1,7 @@
+[
+	{"id":"diy","name":"Do it yourself (DIY)"},
+	{"id":"furniture","name":"Meubles"},
+	{"id":"gardening","name":"Jardinage"},
+	{"id":"home_appliances","name":"Appareils Électroménagers"},
+	{"id":"home_improvement","name":"Rénovation"}
+]

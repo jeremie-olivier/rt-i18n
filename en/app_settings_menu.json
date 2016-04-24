@@ -1,0 +1,41 @@
+[{
+	"id": "about",
+	"name": "Abous Us",
+	"icon": "ion-ios-lightbulb"
+}, {
+	"id": "account",
+	"name": "Account",
+	"icon": "ion-person"
+}, {
+	"id": "settings",
+	"name": "Settings",
+	"icon": "ion-ios-gear"
+}, {
+	"id": "payout",
+	"name": "Payout",
+	"icon": "ion-cash"
+}, {
+	"id": "sponsorship",
+	"name": "Sponsorship",
+	"icon": "ion-ios-people"
+}, {
+	"id": "privacy",
+	"name": "Privacy Policy",
+	"icon": "ion-ios-locked"
+}, {
+	"id": "terms",
+	"name": "Terms of Service",
+	"icon": "ion-information-circled"
+}, {
+	"id": "help",
+	"name": "Help",
+	"icon": "ion-help-circled"
+}, {
+	"id": "contact",
+	"name": "Contact",
+	"icon": "ion-android-mail"
+}, {
+	"id": "logout",
+	"name": "Logout",
+	"icon": "ion-power"
+}]

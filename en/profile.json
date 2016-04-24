@@ -1,0 +1,71 @@
+[{
+	"id": "email",
+	"name": "Email",
+	"icon": "",
+	"type": "text",
+	"multiple": "0",
+	"sql": "0"
+},{
+	"id": "gender",
+	"name": "Gender",
+	"icon": "",
+	"type": "select_unique",
+	"multiple": "1",
+	"sql": "0"
+}, {
+	"id": "lastname",
+	"name": "Last Name",
+	"icon": "ion-person",
+	"type": "text",
+	"multiple": "0",
+	"sql": "0"
+}, {
+	"id": "firstname",
+	"name": "First Name",
+	"icon": "ion-person",
+	"type": "text",
+	"multiple": "0",
+	"sql": "0"
+}, {
+	"id": "birthdate",
+	"name": "Birthdate",
+	"icon": "ion-android-calendar",
+	"type": "date",
+	"multiple": "0",
+	"sql": "0"
+}, {
+	"id": "country",
+	"name": "Country",
+	"icon": "ion-android-globe",
+	"type": "select_unique",
+	"multiple": "1",
+	"sql": "0"
+}, {
+	"id": "state",
+	"name": "State",
+	"icon": "ion-android-globe",
+	"type": "select_unique",
+	"multiple": "1",
+	"sql": "0"
+}, {
+	"id": "city",
+	"name": "City",
+	"icon": "ion-android-home",
+	"type": "select_unique",
+	"multiple": "1",
+	"sql": "1"
+}, {
+	"id": "cell_number",
+	"name": "Cell number",
+	"icon": "ion-android-phone-portrait",
+	"type": "tel",
+	"multiple": "0",
+	"sql": "0"
+}, {
+	"id": "spoken_languages",
+	"name": "Spoken Languages",
+	"icon": "ion-speakerphone",
+	"type": "select_multi",
+	"multiple": "1",
+	"sql": "0"
+}]

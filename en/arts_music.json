@@ -1,0 +1,15 @@
+[
+	{"id":"acting","name":"Acting"},
+	{"id":"crafts","name":"Crafts"},
+	{"id":"dance","name":"Dance"},
+	{"id":"drawing","name":"Drawing"},
+	{"id":"drums","name":"Drums"},
+	{"id":"fine_art","name":"Fine Art"},
+	{"id":"guitar","name":"Guitar"},
+	{"id":"painting","name":"Painting"},
+	{"id":"performing_arts","name":"Performing Arts"},
+	{"id":"photography","name":"Photography"},
+	{"id":"sculpture","name":"Sculpture"},
+	{"id":"singing","name":"Singing"},
+	{"id":"writing","name":"Writing"}
+]

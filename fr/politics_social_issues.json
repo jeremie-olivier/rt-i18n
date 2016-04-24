@@ -1,0 +1,12 @@
+[
+	{"id":"charity_causes","name":"Charité / Causes"},
+	{"id":"community_issues","name":"Questions Communautaires"},
+	{"id":"environmentalism","name":"Ecologisme"},
+	{"id":"law","name":"Droit"},
+	{"id":"military","name":"Militaire"},
+	{"id":"politics","name":"Politique"},
+	{"id":"religion","name":"Religion"},
+	{"id":"sustainability","name":"Développement Durable"},
+	{"id":"veterans","name":"Vétérans"},
+	{"id":"volunteering","name":"Bénévolat"}
+]

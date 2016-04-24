@@ -1,0 +1,16 @@
+[
+	{"id":"adventure_travel","name":"Viajes de Aventura"},
+	{"id":"air_travel","name":"Viajes en Avión"},
+	{"id":"beaches","name":"Playas"},
+	{"id":"car_rentals","name":"Alquiler de vehiculos"},
+	{"id":"cruises","name":"Cruceros"},
+	{"id":"ecotourism","name":"Eco Tourismo"},
+	{"id":"hotels","name":"Hoteles"},
+	{"id":"luxury_hotels","name":"Hoteles de Lujo"},
+	{"id":"lakes","name":"Lagos"},
+	{"id":"mountains","name":"Montañas"},
+	{"id":"nature","name":"Naturaleza"},
+	{"id":"theme_parks","name":"Parques Temáticos"},
+	{"id":"tourism","name":"Turismo"},
+	{"id":"vacations","name":"Vacaciones"}
+]

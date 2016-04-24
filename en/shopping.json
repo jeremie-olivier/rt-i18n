@@ -1,0 +1,8 @@
+[
+	{"id":"boutiques","name":"Boutiques"},
+	{"id":"coupons","name":"Coupons"},
+	{"id":"discount_stores","name":"Discount stores"},
+	{"id":"luxury_goods","name":"Luxury goods"},
+	{"id":"online_shopping","name":"Online Shopping"},
+	{"id":"shopping_malls","name":"Shopping malls"}
+]

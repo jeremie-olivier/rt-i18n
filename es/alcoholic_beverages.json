@@ -1,0 +1,15 @@
+[
+	{"id":"beer","name":"Cerveza"},
+	{"id":"cider","name":"Sidra"},
+	{"id":"champagne","name":"Champaña"},
+	{"id":"distilled_beverages","name":"Bebidas Destiladas"},
+	{"id":"pink_wine","name":"Vino Rosado"},
+	{"id":"red_wine","name":"Vino Rojo"},
+	{"id":"white_wine","name":"Vino Blanco"},
+	{"id":"rhum","name":"Ron"},
+	{"id":"vodka","name":"Vodka"},
+	{"id":"tequila","name":"Tequila"},
+	{"id":"cognac","name":"Coñac"},
+	{"id":"armagnac","name":"Armagnac"},
+	{"id":"brandy","name":"Aguardiente"}
+]

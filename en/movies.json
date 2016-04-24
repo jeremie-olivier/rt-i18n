@@ -1,0 +1,14 @@
+[
+	{"id":"action_movies","name":"Action Movies"},
+	{"id":"animated_movies","name":"Animated Movies"},
+	{"id":"anime_movies","name":"Anime Movies"},
+	{"id":"bollywood_movies","name":"Bollywood Movies"},
+	{"id":"comedy_movies","name":"Comedy Movies"},
+	{"id":"documentary_movies","name":"Documentary Movies"},
+	{"id":"dram_movies","name":"Drama Movies"},
+	{"id":"fantasy_movies","name":"Fantasy Movies"},
+	{"id":"horror_movies","name":"Horror Movies"},
+	{"id":"musical_movies","name":"Musical Movies"},
+	{"id":"science_fiction_movies","name":"Science fiction Movies"},
+	{"id":"thriller_movies","name":"Thriller Movies"}
+]

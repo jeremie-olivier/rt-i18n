@@ -1,0 +1,7 @@
+[
+	{"id":"coffee","name":"Coffee"},
+	{"id":"energy_drinks","name":"Energy Drinks"},
+	{"id":"juice","name":"Juice"},
+	{"id":"soft_drinks","name":"Soft Drinks"},
+	{"id":"tea","name":"Tea"}
+]

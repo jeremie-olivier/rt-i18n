@@ -1,0 +1,12 @@
+[
+	{"id":"digital_marketing","name":"Digital Marketing"},
+	{"id":"display_advertising","name":"Display Advertising"},
+	{"id":"email_marketing","name":"Email Marketing"},
+	{"id":"online_advertising","name":"Online Advertising"},
+	{"id":"search_engine_optimization","name":"Search Engine Optimization"},
+	{"id":"social_media","name":"Social Media"},
+	{"id":"social_media_marketing","name":"Social Media Marketing"},
+	{"id":"web_design","name":"Web Design"},
+	{"id":"web_development","name":"Web Development"},
+	{"id":"web_hosting","name":"Web Hosting"}
+]

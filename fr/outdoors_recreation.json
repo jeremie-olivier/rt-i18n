@@ -1,0 +1,10 @@
+[
+	{"id":"boating","name":"Navigation de Plaisance"},
+	{"id":"camping","name":"Camping"},
+	{"id":"fishing","name":"Pêche"},
+	{"id":"hiking","name":"Randonnée"},
+	{"id":"horseback_riding","name":"Balade à Cheval"},
+	{"id":"hunting","name":"Chasse"},
+	{"id":"mountain_biking","name":"Vélo de Montagne"},
+	{"id":"surfing","name":"Surf"}
+]

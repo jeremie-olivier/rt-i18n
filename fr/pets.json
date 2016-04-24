@@ -1,0 +1,9 @@
+[
+	{"id":"birds","name":"Oiseaux"},
+	{"id":"cats","name":"Chats"},
+	{"id":"dogs","name":"Chiens"},
+	{"id":"fish","name":"Poissons"},
+	{"id":"horses","name":"Chevaux"},
+	{"id":"rabbits","name":"Lapins"},
+	{"id":"reptiles","name":"Reptiles"}
+]

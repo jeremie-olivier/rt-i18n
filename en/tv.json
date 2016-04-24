@@ -1,0 +1,7 @@
+[
+	{"id":"tv_comedies","name":"TV Comedies"},
+	{"id":"tv_game_shows","name":"TV Game Shows"},
+	{"id":"tv_reality_shows","name":"TV Reality Shows"},
+	{"id":"tv_talkshows","name":"TV Talk Shows"},
+	{"id":"tv_series","name":"TV Series"}
+]

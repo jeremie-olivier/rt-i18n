@@ -1,0 +1,14 @@
+[
+	{"id":"audio_equipment","name":"Equipo de Audio"},
+	{"id":"camcorders","name":"Videocámara"},
+	{"id":"cameras","name":"Camara de fotos"},
+	{"id":"ebook_readers","name":"Lector de Libros Electrónicos"},
+	{"id":"gps_devices","name":"Dispositivos de GPS"},
+	{"id":"game_consoles","name":"Consolas de juego"},
+	{"id":"mobile_phones","name":"Teléfonos Celulares"},
+	{"id":"portable_media_players","name":"Reproductores multimedia portátiles"},
+	{"id":"projectors","name":"Proyectores"},
+	{"id":"smartphones","name":"Teléfono Inteligente"},
+	{"id":"tablets","name":"Tabletas"},
+	{"id":"televisions","name":"Televisores"}
+]

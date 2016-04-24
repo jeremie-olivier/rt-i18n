@@ -1,0 +1,14 @@
+[
+	{"id":"automobiles","name":"Automobiles"},
+	{"id":"boats","name":"Boats"},
+	{"id":"electric_vehicles","name":"Eletric Vehicles"},
+	{"id":"hybrids","name":"Hybrids"},
+	{"id":"luxury_cars","name":"Luxury Cars"},
+	{"id":"minivans","name":"Minivans"},
+	{"id":"motorcycles","name":"Motorcycles"},
+	{"id":"rv","name":"RVs"},
+	{"id":"sport_cars","name":"Sport Cars"},
+	{"id":"suv","name":"SUVs"},
+	{"id":"scooters","name":"Scooters"},
+	{"id":"trucks","name":"Trucks"}
+]

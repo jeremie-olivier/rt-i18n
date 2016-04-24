@@ -1,0 +1,7 @@
+[
+	{"id":"credit_cards","name":"Credit Cards"},
+	{"id":"insurance","name":"Insurance"},
+	{"id":"investment","name":"Investment"},
+	{"id":"loans","name":"Loans"},
+	{"id":"mortgage_loans","name":"Mortgage Loans"}
+]

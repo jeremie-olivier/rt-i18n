@@ -1,0 +1,8 @@
+[
+	{"id":"tenant","name":"Tenant"},
+	{"id":"owner","name":"Owner"},
+	{"id":"part_owner","name":"Part Owner"},
+	{"id":"roommate","name":"Roommate"},
+	{"id":"with_parents","name":"With Parents"},
+	{"id":"free_occupation","name":"Free Occupation"}
+]

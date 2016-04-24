@@ -1,0 +1,13 @@
+[
+	{"id":"single","name":"Single"},
+	{"id":"in_a_relationship","name":"In a Relationship"},
+	{"id":"engaged","name":"Engaged"},
+	{"id":"married","name":"Married"},
+	{"id":"civil_union","name":"Civil Union"},
+	{"id":"domestic_partnership","name":"Domestic Partnership"},
+	{"id":"open_relationship","name":"Open Relationship"},
+	{"id":"complicated","name":"Complicated"},
+	{"id":"separated","name":"Separated"},
+	{"id":"divorced","name":"Divorced"},
+	{"id":"widowed","name":"Widowed"}
+]

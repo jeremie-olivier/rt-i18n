@@ -1,0 +1,8 @@
+[
+	{"id":"beauty_salons","name":"Salons de Beauté"},
+	{"id":"cosmetics","name":"Cosmétiques"},
+	{"id":"fragrances","name":"Parfums"},
+	{"id":"hair_products","name":"Produits Cheveux"},
+	{"id":"spas","name":"Spas"},
+	{"id":"tatoos","name":"Tatouages"}
+]

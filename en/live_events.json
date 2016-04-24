@@ -1,0 +1,11 @@
+[
+	{"id":"ballet","name":"Ballet"},
+	{"id":"bars","name":"Bars"},
+	{"id":"concerts","name":"Concerts"},
+	{"id":"dancehalls","name":"Dancehalls"},
+	{"id":"music_festivals","name":"Music Festivals"},
+	{"id":"nightclubs","name":"Nightclubs"},
+	{"id":"parties","name":"Parties"},
+	{"id":"plays","name":"Plays"},
+	{"id":"theatre","name":"Theatre"}
+]

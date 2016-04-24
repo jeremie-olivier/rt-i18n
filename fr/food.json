@@ -1,0 +1,11 @@
+[
+	{"id":"barbecue","name":"Barbecue"},
+	{"id":"chocolate","name":"Chocolat"},
+	{"id":"desserts","name":"Desserts"},
+	{"id":"fast_food","name":"Fast Food"},
+	{"id":"organic_food","name":"Nourriture Organique"},
+	{"id":"pizza","name":"Pizza"},
+	{"id":"seafood","name":"Fruits de Mer"},
+	{"id":"veganism","name":"Véganisme"},
+	{"id":"vegetarianism","name":"Végétarisme"}
+]

@@ -1,0 +1,10 @@
+[
+	{"id":"boating","name":"Boating"},
+	{"id":"camping","name":"Camping"},
+	{"id":"fishing","name":"Fishing"},
+	{"id":"hiking","name":"Hiking"},
+	{"id":"horseback_riding","name":"Horseback riding"},
+	{"id":"hunting","name":"Hunting"},
+	{"id":"mountain_biking","name":"Mountain biking"},
+	{"id":"surfing","name":"Surfing"}
+]

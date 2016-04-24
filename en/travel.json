@@ -1,0 +1,16 @@
+[
+	{"id":"adventure_travel","name":"Adventure Travel"},
+	{"id":"air_travel","name":"Air Travel"},
+	{"id":"beaches","name":"Beaches"},
+	{"id":"car_rentals","name":"Car Rentals"},
+	{"id":"cruises","name":"Cruises"},
+	{"id":"ecotourism","name":"Ecotourism"},
+	{"id":"hotels","name":"Hotels"},
+	{"id":"luxury_hotels","name":"Luxury Hotels"},
+	{"id":"lakes","name":"Lakes"},
+	{"id":"mountains","name":"Moutains"},
+	{"id":"nature","name":"Nature"},
+	{"id":"theme_parks","name":"Theme Parks"},
+	{"id":"tourism","name":"Tourism"},
+	{"id":"vacations","name":"Vacations"}
+]

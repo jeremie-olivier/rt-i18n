@@ -1,0 +1,13 @@
+[
+	{"id":"computer_memory","name":"Mémoria de la computadora"},
+	{"id":"computer_monitors","name":"Monitores"},
+	{"id":"computer_processors","name":"Procesadores"},
+	{"id":"computer_servers","name":"Servidores"},
+	{"id":"desktop_computers","name":"Computadora de escritorio"},
+	{"id":"laptop_computers","name":"Computadora pórtatil"},
+	{"id":"free_software","name":"Software Gratuito"},
+	{"id":"hard_drives","name":"Disco Duro"},
+	{"id":"network_storage","name":"Almacenaje de Red"},
+	{"id":"software","name":"Software"},
+	{"id":"tablet_computers","name":"Tabletas"}
+]

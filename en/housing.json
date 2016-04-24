@@ -1,0 +1,11 @@
+[
+	{"id":"house","name":"House"},
+	{"id":"villa","name":"Villa"},
+	{"id":"apartment","name":"Apartment"},
+	{"id":"studio","name":"Studio"},
+	{"id":"pavilion","name":"Pavilion"},
+	{"id":"farm_ranch","name":"Farm / Ranch"},
+	{"id":"castle","name":"Castle"},
+	{"id":"mansion","name":"Mansion"},
+	{"id":"lodge","name":"Lodge"}
+]

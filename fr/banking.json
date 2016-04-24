@@ -1,0 +1,5 @@
+[
+	{"id":"investment_banking","name":"Banque d'Investissement"},
+	{"id":"online_banking","name":"Banque en Ligne"},
+	{"id":"retail_banking","name":"Banque de Détail"}
+]

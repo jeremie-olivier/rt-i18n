@@ -1,0 +1,13 @@
+[
+	{"id":"single","name":"Célibataire"},
+	{"id":"in_a_relationship","name":"En Couple"},
+	{"id":"engaged","name":"Fiancé(e)"},
+	{"id":"married","name":"Marié(e)"},
+	{"id":"civil_union","name":"Union Civile / Pacs"},
+	{"id":"domestic_partnership","name":"Concubinage"},
+	{"id":"open_relationship","name":"Union Libre"},
+	{"id":"complicated","name":"Compliqué"},
+	{"id":"separated","name":"Séparé(e)"},
+	{"id":"divorced","name":"Divorcé(e)"},
+	{"id":"widowed","name":"Veuf/Veuve"}
+]

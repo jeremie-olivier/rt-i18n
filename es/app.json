@@ -1,0 +1,292 @@
+{
+	"app": {
+		"name": "Rentork",
+		"slogan": "Usted vale más de lo que piensa",
+		"version": "v 0.0.1",
+		"last_update": "1457667917"
+	},
+
+	"tabsmenu": {
+		"Dashboard": "Tablero de Mandos",
+		"Profile": "Perfil",
+		"Interests": "Intereses",
+		"Menu": "Menú"
+	},
+
+	"general": {
+		"Loading":"Cargando ...",
+		"No_Connection_Alert": "Debe estar conectado para realizar esta acción.",
+		"OK": "OK",
+		"Loggin_in":"Conexión ...",
+		"Dashboard": "Gestión",
+		"Sponsorship": "Padrinazgo",
+		"Rentork_Bot": "Rentork Bot",
+		"beta": "beta",
+		"News": "Actualidades",
+		"Outdated_Version": "Versión anterior",
+		"Profile": "Perfil",
+		"Demographics": "Demografía",
+		"Interests": "Intereses",
+		"Menu": "Menú",
+		"Email_address": "Correo Electrónico",
+		"Password": "Contraseña",
+		"Current_Password": "Contraseña actual",
+		"New_Password": "Nueva Contraseña",
+		"Re_enter_Password": "Repita la contraseña",
+		"Re_enter_New_Password": "Repita la nueva contraseña",
+		"Next_Step": "Próximo Paso",
+		"Next": "Siguiente",
+		"Continue": "Continuar",
+		"Lets_Go": "Lets Go",
+		"Start_Now": "Comenzar ahora",
+		"I_m_good_for_now": "Estoy bien por ahora",
+		"Learn_More": "Aprender más",
+		"Update": "Actualizar",
+		"Back": "Regresar",
+		"Invite_Friends_with_Facebook": "Invite a sus amigos de Facebook",
+		"Current_Profile_Value": "Valor actual del perfil",
+		"No_Result": "Ningún Resultado",
+		"User_age_under_13": "Tiene menos de 13 años, no puede usar por ahora esta App."
+	},
+
+	"login": {
+		"Websites": "Sitios Web",
+		"Apps": "Apps",
+		"Videos": "Videos",
+		"Shops": "Shops",
+		"welcome_description": "Alquile su perfil, no permita que sus datos sean utilizados gratuitamente, sea pagado por ello.",
+		"Sign_up_Connect_with": "Inscripción / Conectarse con ...",
+		"By_signing_up_you_accept_our": "Al inscribirse, acepta nuestras",
+		"terms": "Condiciones de uso",
+		"and_our": "y nuestra",
+		"privacy_policy": "Política de Confidencialidad."
+	},
+
+	"setup": {
+		"WELCOME": "BIENVENIDO",
+		"wecome_text": "Primera etapa cree su acceso.",
+		"All_Fields_are_Required": "Todos los espacios son requeridos"
+	},
+
+	"apptour": {
+		"slide_1": {
+			"title": "Alquile su Perfil y sea Pagado por eso",
+			"description_1": "Cuando usted navega por Internet o utiliza aplicaciones móviles, los anunciantes usan libremente sus datos para mostrarle publicidades sin darle nada a cambio.",
+			"description_2": "Con Rentork, sus datos no serán utilizados más gratuitamente, cuando uno des nuestros anunciantes quiera mostrarle una publicidad, el deberá pagar por eso y usted obtendrá una comisión por ello."
+		},
+		"slide_2": {
+			"title": "Tenga el control de sus datos",
+			"description_1": "Una vez tenga la aplicación configurada, ninguna otra acción sera requerida, solo disfrute de sus contenidos preferidos.",
+			"description_2": "Las páginas de internet visitadas y las aplicaciones móviles que utilice cada día donde figuren nuestros anunciantes le hará ganar dinero.",
+			"description_3": "Para una mejor experiencia, usted solo vera anuncios en función a su perfil, sus intereses y sus acciones."
+		},
+		"slide_3": {
+			"title": "Valorice sus datos fácilmente",
+			"description_1": "Configure su cuenta para obtener ingresos atractivos alquilando sus datos.",
+			"description_2": "El monto que podrá ganar dependerá del valor de su perfil, de sus acciones y de su actividad en línea.",
+			"description_3": "Para comenzar, complete su perfil, su información demográfica y sus intereses."
+		}
+	},
+
+	"congratulations": {
+		"Your_account_is_ready": "Su cuenta esta lista",
+		"Thank_you_Early_Bird": "Gracias por su confianza",
+		"congratulations_prelaunch_text_1": "Rentork sera lanzado en pocos días.",
+		"congratulations_prelaunch_text_2": "Ahora Relájese, ninguna otra acción sera requerida.",
+		"congratulations_prelaunch_text_3": "Por cada publicidad que vea de nuestros anunciantes en las páginas web y aplicaciónes móviles, Usted sera Remunerado.",
+		"congratulations_text_1": "Relájese, no cambie sus costumbres siga disfrutando de sus sitios de internet y aplicaciones móviles preferidas.",
+		"congratulations_text_2": "Por cada anuncio visto gracias a nuestra red, Usted sera Remunerado."
+	},
+
+	"dashboard": {
+		"Earnings": "Ganancias",
+		"Pending": "Pendiente",
+		"Profile_Value": "Valor del Perfil",
+		"Ads_Views": "Anuncios vistos",
+		"Actions_on_Ads": "Acciones",
+		"prelaunch_text_1": "Gracias por su confianza.",
+		"prelaunch_text_2": "Comience a ganar dinero por internet en:",
+		"outdate_version_text_1": "Una nueva versión esta disponible.",
+		"outdate_version_text_2": "Actualice la aplicación para tener acceso a nuevas funciones.",
+		"news_text_1": "Sabía-usted que mientras más complete su perfil, su valor sera más elevado .
+
+
+
+
+		.?",
+		"news_text_2": "Gane más dinero compartiendo esta aplicación en sus redes sociales favoritas.",
+		"Learn_more_about_Sponsorship": "Para saber más sobre el padrinazgo",
+		"day": "día",
+		"days": "días",
+		"hour": "hora",
+		"hours": "horas",
+		"min": "min",
+		"Your_Email_is_not_verified": "Su Email no esta comprobado!",
+		"Overview": "Resumen",
+		"Countdown": "Cuenta regresiva"
+	},
+
+	"bot": {
+		"welcome_text_1": "Busca algo especial por los próximos días, semanas o meses como vuelos baratos o descuentos en hoteles, alquiler de vehiculos, promociones, ofertas especiales, etc?",
+		"welcome_text_2": "Preguntele a nuestro Bot de búsqueda lo que desee y cuando el encuentre uno de sus pedidos, le mostrara los anuncios en prioridad."
+	},
+
+	"profile": {
+		"Profile": "Perfil",
+		"welcome_text_1": "Aumente el valor de su perfil.",
+		"Gender": "Sexo",
+		"Male": "Hombre",
+		"Female": "Mujer",
+		"Both": "Los dos",
+		"Boy": "Niño",
+		"Girl": "Niña",
+		"Last_Name": "Apellido",
+		"First_Name": "Nombre",
+		"Birthdate": "Fecha de nacimiento",
+		"Country": "País",
+		"State": "Éstado",
+		"City": "Ciudad",
+		"Postal_Code": "Código Postal",
+		"Cell_Number": "Número de celular"
+	},
+
+	"demographics": {
+		"Demographics": "Démografía",
+		"welcome_text_1": "Aumente su valor llenando su demografía.",
+		"Child": "Hijo",
+		"Language": "Idioma"
+	},
+
+	"interests": {
+		"Interests": "Intereses",
+		"welcome_text_1": "Cúales son sus intereses preferidos?",
+		"Back_to_Interests": "Regrese a intereses",
+		"Next_Interest": "Siguiente interes"
+	},
+
+	"about": {
+		"About_Us": "Acerca de nosotros",
+		"welcome_text_1": ""
+	},
+
+	"account": {
+		"Account": "Cuenta",
+		"Change_your_Email": "Cambio de Correo electrónico",
+		"Change_your_Password": "Cambio de contraseña",
+		"welcome_text_1": "Cambie su Correo electrónico o su contraseña.",
+		"welcome_text_2": "Cambiar su email requiere una confirmación.",
+		"Alert_Change_Email": "Su Email no ha sido verificado, un enlace de confirmación le ha sido enviado.",
+		"Resend_Confirmation": "Reenviar Confirmación",
+		"Cancel_Email_change": "Anular el cambio de Email",
+		"Email_Incorrect": "Este Email es incorrecto",
+		"Current_Password_Incorrect": "Contraseña actual incorrecta",
+		"Password_not_match": "No es la contraseña correcta",
+		"welcome_text_3": "Cambie su contraseña más abajo"
+	},
+
+	"settings": {
+		"Settings": "Ajustes",
+		"Notifications": "Notificaciones",
+		"Localisation": "Ubicación",
+		"Language": "Idioma"
+	},
+
+	"payout": {
+		"Payout": "Pago",
+		"Legal_Age_Issue": "Edad mínima requerida",
+		"Payout_Age_Confirmation": "Confirmación de edad",
+		"Parental_Authorization": "Autorización parental",
+		"Payout_not_Available": "Pago no disponible",
+		"Payout_Available": "Pago disponible",
+		"welcome_text_1": "Su fecha de nacimiento es necesaria para realizar el pago, por favor confirme su edad.",
+		"welcome_text_2": "Tiene menos de 18 años, sus padres deben firmar el formulario de autorización.",
+		"welcome_text_3": "Sus ganancias deben ser de un mínimo de",
+		"welcome_text_4": "El pago se hace automático una vez por mes.",
+		"welcome_text_5": "Usted ha alcanzado el minino de pago.",
+		"welcome_text_6": "Dos formas de pago son disponibles:",
+		"welcome_text_7": "Favor llene su información bancaria:",
+		"welcome_text_8": "Favor escriba su cuenta Paypal:",
+		"Authorization_Form_Sent": "El formulario de autorización ha sido enviado a su correo electrónico.",
+		"Authorization_Form_Not_Received": "Si no ha recibido el formulario, Haga click más abajo para reenviarselo.",
+		"Authorization_Form_Resend": "Reenviar Formulario de Autorización",
+		"Authorization_Form_Received": "Su formulario de autorización ha sido recibido y el esta en proceso de validación.",
+		"Authorization_Form_Process_Time": "El proceso de validación toma entre 48 a 72 horas.",
+		"Current_Balance": "Saldo actual",
+		"Next_Payout": "Próximo pago",
+		"Paypal": "Paypal",
+		"Paypal_Email": "Email Paypal",
+		"Wire_Transfer": "Transferencia bancaria",
+		"Bank_Name": "Nombre del banco",
+		"Bank_Account": "Número de cuenta",
+		"BIC_SWIFT": "BIC / SWIFT"
+	},
+
+	"sponsorship": {
+		"Sponsorship": "Padrinazgo",
+		"Share_to_your_Friends": "Compartir con sus amigos",
+		"welcome_text_1": "Promocione la aplicación y obtenga",
+		"welcome_text_2": "por compartir cada semana y ",
+		"welcome_text_3": "Invite a sus amigos de Facebook y Obtenga",
+		"welcome_text_4": "cada vez que un amigo suyo descargue e instale la aplicación.",
+		"share_commission": "0.05",
+		"download_commission": "0.20"
+	},
+
+	"privacy": {
+		"Privacy_Policy": "Confidencialidad",
+		"welcome_text_1": "Texto privado"
+	},
+
+	"terms": {
+		"Terms_of_Service": "Condiciones de uso",
+		"welcome_text_1": "Términos text"
+	},
+
+	"help": {
+		"Help": "Ayuda",
+		"FAQ": "F.A.Q",
+		"welcome_text_1": "Necesita ayuda? Encuentre respuestas a sus preguntas en la sección FAQ.",
+		"faq_question_1": "1. Como funciona?",
+		"faq_answer_1": "Rentork est una inteligencia artificial y una solución publicitaria que permite a los utilizadores ganar dinero al alquilar sus datos. Los anunciantes podran crear campañas publicitarias en función del valor del perfil del utilizador y de sus intereses. Cada vez que un anunciante es facturado por una vista o una accion en sus anuncios, el utilizador obtiene su comisión.",
+		"faq_question_2": "2. Cúal es la edad mínima para participar?",
+		"faq_answer_2": "La edad mínima para utilizar Rentork es de 13 años. Sin embargo, si usted tiene menos de 18 años, debe descargar el formulario de autorización y hacerlo firmar por sus padres.",
+		"faq_question_3": "3. Debo completar todos los campos?",
+		"faq_answer_3": "No, usted no esta obligado a llenar todos los campos, pero mientras más completo este, el valor de su perfil aumentará.",
+		"faq_question_4": "4. Mis datos estan seguros y como?",
+		"faq_answer_4": "Si, sus datos estan altamente protegidos en nuestros servidores con un cryptage SHA256.",
+		"faq_question_5": "5. Cúando, Donde y Cúanto gano de dinero?",
+		"faq_answer_5": "Usted gana dinero por las páginas web visitadas y las applicaciones que utilice todos los días, cuando vea una publicidad de nuestros anunciantes o cuando realice una acción. El monto que podrá ganar dépendera del valor de su perfil, sus acciones y su actividad. Si su perfil, sus datos demográficos y sus intereses estan bien detallados usted ganara más.",
+		"faq_question_6": "6. Gano dinero por todas las publicidades que vea?",
+		"faq_answer_6": "No, usted gana dinero solamente por las publicidades que vea de nuestros anunciantes en todos las páginas web que visite y las aplicaciones móviles que utilice. Nuestra red crece muy rápido  y tenemos nuevos socios que se suman todos los días.",
+		"faq_question_7": "7. Cómo gano dinero por mis acciones?",
+		"faq_answer_7": "Usted puede ganar dinero por acciones específicas como la inscripción a un servicio, al descargar una aplicación, al hacer compras online, dandole un me gusta a las Páginas Facebook, mirando videos ...",
+		"faq_question_8": "8. Cúal es el monto mínimo para recibir un pago?",
+		"faq_answer_8": "El monto mínimo es de solamente $5, cuando llegue a ese monto podra llenar las informaciones de pago y recibir su dinero.",
+		"faq_question_9": "9. Como soy pagado y cuando?",
+		"faq_answer_9": "Podra recibir su dinero por transferencia bancaria o vía Paypal. Los pagos son automáticamente realizados el día 10 de cada mes.",
+		"faq_question_10": "10. Debo declarar lo que gané?",
+		"faq_answer_10": "Si, usted debe declarar lo que gane en función de la tributación de su país, incluso aunque no pague impuestos."
+	},
+
+	"contact": {
+		"Contact_Us": "Contáctenos",
+		"welcome_text_1": "No dude en contactarnos si tiene alguna pregunta o si requiere información adicional sobre Rentork.",
+		"Subject": "Tema",
+		"General_Inquiry": "Solicitud General",
+		"Technical_Issue": "Problemas Técnicos",
+		"Accounting": "Contabilidad",
+		"Just_a_Friendly_Message": "Mensaje de Apoyo",
+		"Your_Message": "Su mensaje",
+		"Send_Contact": "Enviar al contacto"
+	},
+
+	"sponsored_ads": {
+		"Sponsored_Ads": "Publicidades de los anunciantes",
+		"welcome_text_1": ""
+	},
+
+	"sponsored_surveys": {
+		"Sponsored_Surveys": "Encuestas acerca de los anunciantes",
+		"welcome_text_1": ""
+	}
+}

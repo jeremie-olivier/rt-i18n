@@ -1,0 +1,13 @@
+[
+	{"id":"books","name":"Books"},
+	{"id":"comics","name":"Comics"},
+	{"id":"ebooks","name":"E-Books"},
+	{"id":"fiction_books","name":"Fiction Books"},
+	{"id":"literature","name":"Literature"},
+	{"id":"magazines","name":"Magazines"},
+	{"id":"manga","name":"Manga"},
+	{"id":"mystery_fiction","name":"Mystery fiction"},
+	{"id":"newspapers","name":"Newspapers"},
+	{"id":"romance_novels","name":"Romance novels"},
+	{"id":"novels","name":"Novels"}
+]

@@ -1,0 +1,11 @@
+[
+	{"id":"house","name":"Maison"},
+	{"id":"villa","name":"Villa"},
+	{"id":"apartment","name":"Appartement"},
+	{"id":"studio","name":"Studio"},
+	{"id":"pavilion","name":"Pavillon"},
+	{"id":"farm_ranch","name":"Ferme / Ranch"},
+	{"id":"castle","name":"Château"},
+	{"id":"mansion","name":"Manoir"},
+	{"id":"lodge","name":"Châlet"}
+]
