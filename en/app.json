@@ -13,31 +13,6 @@
 		"Menu": "Menu"
 	},
 
-	"days": {
-		"S": "S",
-		"M": "M",
-		"T": "T",
-		"W": "W",
-		"T": "T",
-		"F": "F",
-		"S": "S"
-	},
-
-	"months": {
-		"Jan": "Jan",
-		"Feb": "Feb",
-		"March": "March",
-		"April": "April",
-		"May": "May",
-		"June": "June",
-		"July": "July",
-		"Aug": "Aug",
-		"Sept": "Sept",
-		"Oct": "Oct",
-		"Nov": "Nov",
-		"Dec": "Dec"
-	},
-
 	"general": {
 		"Loading":"Loading ...",
 		"No_Connection_Alert": "You must be connected to do this action.",
@@ -52,14 +27,13 @@
 		"Profile": "Profile",
 		"Demographics": "Demographics",
 		"Interests": "Interests",
-		"Brands_Products": "Brands / Products",
 		"Menu": "Menu",
 		"Email_address": "Email address",
 		"Password": "Password",
 		"Current_Password": "Current Password",
 		"New_Password": "New Password",
-		"Repeat_Password": "Repeat Password",
-		"Repeat_New_Password": "Repeat New Password",
+		"Re_enter_Password": "Re-enter Password",
+		"Re_enter_New_Password": "Re-enter New Password",
 		"Next_Step": "Next Step",
 		"Next": "Next",
 		"Continue": "Continue",
@@ -80,9 +54,8 @@
 		"Apps": "Apps",
 		"Videos": "Videos",
 		"Shops": "Shops",
-		"welcome_description": "Make Internet a source of Income for All",
-		"SIGN_UP": "SIGN UP",
-		"CONNECT": "CONNECT",
+		"welcome_description": "Rent your Profile, do not let your data be used for Free, Get Paid for it.",
+		"Sign_up_Connect_with": "Sign up / Connect with ...",
 		"By_signing_up_you_accept_our": "By signing up, you accept our",
 		"terms": "Terms of Service",
 		"and_our": "and our",
@@ -97,24 +70,30 @@
 
 	"apptour": {
 		"slide_1": {
-			"description_1": "The first App allowing People around the World to earn money with the Internet.",
-			"description_2": "Everywhere you're connected on any device for your favorite Apps and Websites."
+			"title": "Rent Your Profile and Get Paid",
+			"description_1": "While you are on the web or using applications, advertisers use freely your data to display Ads and you get nothing in return.",
+			"description_2": "With this App, your data is no longer used for free, when one of our advertisers wants to show you an ad, he has to pay for your profile and you get your commission."
 		},
 		"slide_2": {
-			"description_1": "Making you closer to your favorite Brands and Products on a new Experience.",
-			"description_2": "Getting your commission when you see our Advertisers Ads or when you perform actions."
+			"title": "Take Control of your Data everywhere",
+			"description_1": "Once the App is setup, no more action is required just enjoy your Favorite Contents.",
+			"description_2": "Websites you visit and Apps you use everyday displaying our Ads make you earn money.",
+			"description_3": "For a better experience, you will only see Ads according to your profile, your interests and your actions to ensure Quality Content."
 		},
 		"slide_3": {
-			"description_1": "Full Data control and Privacy settings, for your Profile, Demographics and Interests.",
-			"description_2": "Let's start, follow the next steps, fill out your data, increase your value and start earning money."
+			"title": "Value your Data easily",
+			"description_1": "It's now time to setup your account and get Attractive Income by renting your data.",
+			"description_2": "The amount you can earn depends on your profile value, your actions and your activity.",
+			"description_3": "To start, you need to fill out your profile, your demographics and your interests."
 		}
 	},
 
 	"congratulations": {
 		"Your_account_is_ready": "Your account is ready",
-		"Official_Launch": "Official Launch in few days",
-		"congratulations_prelaunch_text_1": "As we are in a beta version, we will start Ads diffusion all over the Web very soon.",
-		"congratulations_prelaunch_text_2": "For each partner Ad viewed on a website or an application, you will be paid.",
+		"Thank_you_Early_Bird": "Thank you for being an Early Bird",
+		"congratulations_prelaunch_text_1": "Rentork is launched in few days.",
+		"congratulations_prelaunch_text_2": "Now just relax, no action is required.",
+		"congratulations_prelaunch_text_3": "For each partner Ad viewed on a website or an application, you will be paid.",
 		"congratulations_text_1": "Now just relax, don't change your habits, enjoy your favorite websites & applications.",
 		"congratulations_text_2": "For each partner Ad viewed on a website or an application, you will be paid."
 	},
@@ -125,8 +104,8 @@
 		"Profile_Value": "Profile Value",
 		"Ads_Views": "Ads Views",
 		"Actions_on_Ads": "Actions on Ads",
-		"prelaunch_text_1": "Internet becomes a source of income for all.",
-		"prelaunch_text_2": "Start earning money with your data in:",
+		"prelaunch_text_1": "Thank you for being an Early Bird.",
+		"prelaunch_text_2": "Start earning money all over the web in:",
 		"outdate_version_text_1": "A new version is available.",
 		"outdate_version_text_2": "Update your app now for new features.",
 		"news_text_1": "Did you know that the more you fill out your profile, the more your value increases?",
@@ -158,8 +137,7 @@
 		"Girl": "Girl",
 		"Last_Name": "Last Name",
 		"First_Name": "First Name",
-		"Birthday": "Birthday",
-		"Date_of_birth": "Date of birth",
+		"Birthdate": "Birthdate",
 		"Country": "Country",
 		"State": "State",
 		"City": "City",
@@ -170,24 +148,13 @@
 	"demographics": {
 		"Demographics": "Demographics",
 		"welcome_text_1": "Increase your value, fill out your demographics.",
-		"Relationship": "Relationship",
-		"Sex_Orientation": "Sex Orientation",
-		"Children": "Children",
-		"Housing_Status": "Housing Status",
-		"Housing_Type": "Housing Type",
-		"Job_Title": "Job Title",
-		"Industry": "Industry",
-		"Incomes": "Incomes",
 		"Child": "Child",
-		"Spoken_Languages": "Spoken Languages",
 		"Language": "Language"
 	},
 
 	"interests": {
 		"Interests": "Interests",
-		"Brands": "Brands",
-		"welcome_text_1": "What are the things you like the most?",
-		"Max_Interests_Limit_Alert": "You selected the maximum number of interests more will be available later.",
+		"welcome_text_1": "What are the things your like the most?",
 		"Back_to_Interests": "Back to interests",
 		"Next_Interest": "Next Interest"
 	},
@@ -205,7 +172,7 @@
 		"welcome_text_2": "Changing your email requires to confirm it.",
 		"Alert_Change_Email": "Your Email is not verified, a confirmation link has been sent to your mailbox.",
 		"Resend_Confirmation": "Resend Confirmation",
-		"Cancel_change": "Cancel change",
+		"Cancel_Email_change": "Cancel Email change",
 		"Email_Incorrect": "This email is incorrect",
 		"Current_Password_Incorrect": "Your current Password is incorrect",
 		"Password_not_match": "The password does not match",
@@ -215,14 +182,7 @@
 	"settings": {
 		"Settings": "Settings",
 		"Notifications": "Notifications",
-		"Notifications_Activate_Alert": "To activate your notifications, go to your iOS Settings app -> Notifications -> Rentork -> Allow Notifications",
-		"Notifications_Deactivate_Alert": "To deactivate your notifications, go to your iOS Settings app -> Notifications -> Rentork -> Allow Notifications",
 		"Localisation": "Localisation",
-		"Deactivate_account": "Deactivate account",
-		"Account_Deactivation": "Account Deactivation",
-		"Account_deactivation_text_1": "By deactivating your account, you won't see anymore ads from our network neither earn money or withdraw your earnings.",
-		"Account_deactivation_text_2": "However, you can reactivate your account by logging in to the app when you want and all your data will be restored.",
-		"Confirm_Deactivation": "Confirm Deactivation",
 		"Language": "Language"
 	},
 
@@ -235,7 +195,7 @@
 		"Payout_Available": "Payout available",
 		"welcome_text_1": "Your birthdate is required to get paid, please fill out the field below to confirm your age.",
 		"welcome_text_2": "Your age is under 18, your parents have to sign the Authorization Form.",
-		"welcome_text_3": "To get paid your balance must be at least",
+		"welcome_text_3": "To get paid your earnings must be at least",
 		"welcome_text_4": "The payout is automatic every month.",
 		"welcome_text_5": "You have reached the payout amount.",
 		"welcome_text_6": "Two payment options are available:",
@@ -252,23 +212,19 @@
 		"Paypal_Email": "Paypal Email",
 		"Wire_Transfer": "Wire Transfer",
 		"Bank_Name": "Bank Name",
-		"Bank_Account": "Bank Account / IBAN",
+		"Bank_Account": "Bank Account",
 		"BIC_SWIFT": "BIC / SWIFT"
 	},
 
 	"sponsorship": {
 		"Sponsorship": "Sponsorship",
-		"Overview": "Overview",
 		"Share_to_your_Friends": "Share to your Friends",
-		"welcome_text_1": "Promote this app on Facebook and Get",
+		"welcome_text_1": "Promote this app on social networks and Get",
 		"welcome_text_2": "per share every week and",
-		"welcome_text_3": "each time a friend download and install the App.",
-		"Already_Shared": "You can share only once a week per social network.",
-		"Shares": "Shares",
-		"Clicks_on_Shares": "Clicks on Shares",
-		"App_Installs": "App Installs",
-		"Conversion_Rate": "Conversion Rate",
-		"Share_with": "Share with"
+		"welcome_text_3": "Invite your friends with Facebook and Get",
+		"welcome_text_4": "each time a friend download and install the App.",
+		"share_commission": "0.05",
+		"download_commission": "0.20"
 	},
 
 	"privacy": {
@@ -285,47 +241,31 @@
 		"Help": "Help",
 		"FAQ": "F.A.Q",
 		"welcome_text_1": "Do you need some help? Find an answer to your question on the FAQ below.",
-		
 		"faq_question_1": "1. How does it work?",
 		"faq_answer_1": "Rentork is an Artificial Intelligence App and an Advertising Solution allowing users to earn money by renting their data. Advertisers can create targeted campaigns to reach specific people and will pay depending on the user's profile value and his interests. Each time an advertiser is charged for a view or an action on his ads, the user gets his commission.",
-
 		"faq_question_2": "2. What is the minimum age to participate?",
 		"faq_answer_2": "Minimum age to use Rentork is 13 years old. However, if you are under 18, you need to download the Authorization Form and get it signed by your parents.",
-
 		"faq_question_3": "3. Do I have to fill out all the fields?",
 		"faq_answer_3": "No, you do not have to fill all the fields, but the more you fill out, the more your profile value increases.",
-
 		"faq_question_4": "4. Is my data secured and how?",
 		"faq_answer_4": "Yes, your data is highly secured on the cloud with a SHA256 encryption.",
-
-		"faq_question_5": "5. Do advertisers have access to my data?",
-		"faq_answer_5": "No, your data is confidential and only used for ad targeting, no advertiser has access to it unless you sign up for a service and you allow access to it.",
-
-		"faq_question_6": "6. What is the profile value?",
-		"faq_answer_6": "The value of your profile is calculated according to the information filled in on the application. More detailed your profile is, the more your value increases and the more you earn when you see one of our ads or perform an action.",
-
-		"faq_question_7": "7. When/Where do I earn money and how much?",
-		"faq_answer_7": "You earn money on the websites you visit and the apps you use everyday when you see Ads from our network or when you take an action. The amount you can earn depends on your profile value, your actions and your activity. If your profile, your demographics and your interests are well detailed you will earn more.",
-
-		"faq_question_8": "8. Do I earn money from all the Ads I see?",
-		"faq_answer_8": "No, you only earn money from our Ads everywhere on the websites you visit and the app you use. Our network is growing up very fast and we have new partners everyday joining our solution.",
-
-		"faq_question_9": "9. How do I earn money for my actions?",
-		"faq_answer_9": "You can earn money on specific actions like signing up to a service, downloading an app, online purchasing, liking a Facebook Page, video viewing...",
-
-		"faq_question_10": "10. What is the payout amount?",
-		"faq_answer_10": "Payout amount is only $5, when you reach this amount, you can fill out your payment details and receive your money.",
-
-		"faq_question_11": "11. How do I get paid and when?",
-		"faq_answer_11": "You can receive your money by wire transfer or Paypal. Payments are automatically done every month on the 10th for your available earnings.",
-
-		"faq_question_12": "12. Do I have to report what I earned?",
-		"faq_answer_12": "Yes, you do have to report what you earned even if you won't pay any taxes on it depending on your country tax threshold."
+		"faq_question_5": "5. When/Where do I earn money and how much?",
+		"faq_answer_5": "You earn money on the websites you visit and the apps you use everyday when you see Ads from our network or when you take an action. The amount you can earn depends on your profile value, your actions and your activity. If your profile, your demographics and your interests are well detailed you will earn more.",
+		"faq_question_6": "6. Do I earn money from all the Ads I see?",
+		"faq_answer_6": "No, you only earn money from our Ads everywhere on the websites you visit and the app you use. Our network is growing up very fast and we have new partners everyday joining our solution.",
+		"faq_question_7": "7. How do I earn money for my actions?",
+		"faq_answer_7": "You can earn money on specific actions like signing up to a service, downloading an app, online purchasing, liking a Facebook Page, video viewing...",
+		"faq_question_8": "8. What is the payout amount?",
+		"faq_answer_8": "Payout amount is only $5, when you reach this amount, you can fill out your payment details and receive your money.",
+		"faq_question_9": "9. How do I get paid and when?",
+		"faq_answer_9": "You can receive your money by wire transfer or Paypal. Payments are automatically done every month on the 10th for your available earnings.",
+		"faq_question_10": "10. Do I have to report what I earned?",
+		"faq_answer_10": "Yes, you do have to report what you earned even if you won't pay any taxes on it depending on your country tax threshold."
 	},
 
 	"contact": {
 		"Contact_Us": "Contact Us",
-		"welcome_text_1": "Feel free to contact us for any questions or inquiries.",
+		"welcome_text_1": "Feel free to contact us for any questions or inquiries about Rentork.",
 		"Subject": "Subject",
 		"General_Inquiry": "General Inquiry",
 		"Technical_Issue": "Technical Issue",

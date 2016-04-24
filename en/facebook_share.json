@@ -1,8 +1,8 @@
 {
 	"caption": "Rentork",
-	"name": "How this Amazing App really makes your earn money while you're on the Web.",
-	"description": "With this App you're going to like Ads. Now you can Rent your Data to advertisers and get your commission for each Ads viewed on your favorite Apps and Websites.",
-	"picture": "https://s3-us-west-1.amazonaws.com/rentork/mobile/i18n/en/img/share/Rentork-Promo-Share-001.png",
-	"link": "http://rentork.com/sca/#/click/app-share",
-	"callback": "http://m-api.rentork.com/user/facebook/share/"
+	"name": "It's Confirmed, this App really makes your earn money while you're on the Web.",
+	"description": "Rent your data instead of being used for free by advertisers. When advertisers want to show you an Ad on a website or an App, you get your commission.",
+	"picture": "https://s3-us-west-1.amazonaws.com/rentork/mobile/i18n/en/img/share/Rentork-FBPromo-Share-001.png",
+	"link": "http://rentork.com/tmp-adserver/#/click/app-share?source=facebook",
+	"callback": "http://api.rentork.com/user/facebook/share/"
 }

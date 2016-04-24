@@ -13,31 +13,6 @@
 		"Menu": "Menu"
 	},
 
-	"days": {
-		"S": "D",
-		"M": "L",
-		"T": "M",
-		"W": "M",
-		"T": "J",
-		"F": "V",
-		"S": "S"
-	},
-
-	"months": {
-		"Jan": "Jan",
-		"Feb": "Feb",
-		"March": "Mars",
-		"April": "Avril",
-		"May": "Mai",
-		"June": "Juin",
-		"July": "Juil",
-		"Aug": "Août",
-		"Sept": "Sept",
-		"Oct": "Oct",
-		"Nov": "Nov",
-		"Dec": "Dec"
-	},
-
 	"general": {
 		"Loading":"Loading ...",
 		"No_Connection_Alert": "Vous devez être connecté pour cette action.",
@@ -51,15 +26,14 @@
 		"Outdated_Version": "Version expirée",
 		"Profile": "Profil",
 		"Demographics": "Démographie",
-		"Brands_Products": "Marques / Produits",
 		"Interests": "Intérêts",
 		"Menu": "Menu",
 		"Email_address": "Adresse Email",
 		"Password": "Mot de passe",
 		"Current_Password": "Mot de Passe actuel",
 		"New_Password": "Nouveau Mot de passe",
-		"Repeat_Password": "Retapez le Mot de Passe",
-		"Repeat_New_Password": "Retapez le nouveau Mot de Passe",
+		"Re_enter_Password": "Retapez le Mot de Passe",
+		"Re_enter_New_Password": "Retapez le nouveau Mot de Passe",
 		"Next_Step": "Étape Suivante",
 		"Next": "Suivant",
 		"Continue": "Continuer",
@@ -80,9 +54,8 @@
 		"Apps": "Apps",
 		"Videos": "Videos",
 		"Shops": "Shops",
-		"welcome_description": "Faire d'Internet une source de Revenu",
-		"SIGN_UP": "INSCRIPTION",
-		"CONNECT": "CONNEXION",
+		"welcome_description": "Louez votre Profil, ne laissez plus vos données être utilisées gratuitement.",
+		"Sign_up_Connect_with": "Inscription / Connexion avec ...",
 		"By_signing_up_you_accept_our": "En vous inscrivant, vous acceptez nos",
 		"terms": "Conditions d'Utilisation",
 		"and_our": "et notre",
@@ -97,26 +70,32 @@
 
 	"apptour": {
 		"slide_1": {
-			"description_1": "La première application au Monde permettant de louer ses données.",
-			"description_2": "Partout où vous êtes connecté sur tous vos appareils, sites web et applications favoris."
+			"title": "Louez votre Profil et être Payé",
+			"description_1": "Pendant que vous naviguez sur le web ou sur vos applications, des annonceurs utilisent librement vos données, vous affichent des annonces et vous n'obtenez rien en retour.",
+			"description_2": "Avec cette application, vos données ne sont plus utilisées gratuitement, lorsqu'un de nos annonceurs veut vous afficher une publicité, il doit payer pour votre profil et vous obtenez votre commission."
 		},
 		"slide_2": {
-			"description_1": "Vous rapprocher de vos marques et produits préférés par une nouvelle expérience publicitaire.",
-			"description_2": "Obtenez votre commission lorsque les annonceurs veulent vous afficher une annonce ou pour vos actions."
+			"title": "Prenez le Contrôle de vos Données",
+			"description_1": "Une fois l'application configurée, aucune action n'est nécessaire, il vous suffit juste de profiter de vos contenus préférés.",
+			"description_2": "Les sites Web visités et les applications que vous utilisez tous les jours où figurent nos partenaires vous font gagner de l'argent.",
+			"description_3": "Pour une meilleure expérience, vous ne verrez que des annonces en fonction de votre profil, vos intérêts et vos actions."
 		},
 		"slide_3": {
-			"description_1": "Contrôle total des données et de votre confidentialité pour votre profil, démographie et intérêts.",
-			"description_2": "C'est parti, complétez vos données, augmentez votre valeur et commencez à gagner de l'argent sur Internet."
+			"title": "Valorisez vos Données facilement",
+			"description_1": "Configurez votre compte pour obtenir des revenus attrayants en louant vos données.",
+			"description_2": "Le montant que vous pouvez gagner dépend de la valeur de votre profil, de vos actions et de votre activité en ligne.",
+			"description_3": "Pour commencer, complétez votre profil, vos données démographiques et vos intérêts."
 		}
 	},
 
 	"congratulations": {
 		"Your_account_is_ready": "Votre compte est prêt",
-		"Official_Launch": "Lancement dans quelques jours",
-		"congratulations_prelaunch_text_1": "Comme nous sommes en version bêta, la diffusion des annonces sur tout le web commence prochainement.",
-		"congratulations_prelaunch_text_2": "Pour chaque publicité partenaire vue sur un site web ou une application, vous serez payé.",
+		"Thank_you_Early_Bird": "Merci de votre confiance rapide",
+		"congratulations_prelaunch_text_1": "Rentork est lancé dans quelques jours.",
+		"congratulations_prelaunch_text_2": "Détendez-vous, aucune action n'est requise.",
+		"congratulations_prelaunch_text_3": "Pour chaque publicité partenaire vue sur un site web ou une application, vous serez payé.",
 		"congratulations_text_1": "Détendez-vous, ne changez pas vos habitudes, profitez de vos sites Web et applications préférés.",
-		"congratulations_text_2": "A chaque annonce de notre réseau vue ou action effectuée vous serez payé."
+		"congratulations_text_2": "A chaque annonce de notre réseau vue ou action effectuée, vous serez payé."
 	},
 
 	"dashboard": {
@@ -125,7 +104,7 @@
 		"Profile_Value": "Valeur profil",
 		"Ads_Views": "Annonces Vues",
 		"Actions_on_Ads": "Actions",
-		"prelaunch_text_1": "Internet une source de revenu pour tous.",
+		"prelaunch_text_1": "Merci de votre confiance rapide.",
 		"prelaunch_text_2": "Commencez à louer votre profil dans:",
 		"outdate_version_text_1": "Une nouvelle version est disponible.",
 		"outdate_version_text_2": "Mettre à jour votre application pour de nouvelles fonctionnalités.",
@@ -158,8 +137,7 @@
 		"Girl": "Fille",
 		"Last_Name": "Nom",
 		"First_Name": "Prénom",
-		"Birthday": "Anniversaire",
-		"Date_of_birth": "Date de naissance",
+		"Birthdate": "Date de naissance",
 		"Country": "Pays",
 		"State": "État",
 		"City": "Ville",
@@ -170,24 +148,13 @@
 	"demographics": {
 		"Demographics": "Démographie",
 		"welcome_text_1": "Augmentez votre valeur avec votre démographie.",
-		"Relationship": "Relation Amoureuse",
-		"Sex_Orientation": "Orientation Sexuelle",
-		"Children": "Enfants",
-		"Housing_Status": "Statut du Logement",
-		"Housing_Type": "Type de Logement",
-		"Job_Title": "Profession",
-		"Industry": "Secteur d'Activité",
-		"Incomes": "Revenus",
 		"Child": "Enfant",
-		"Spoken_Languages": "Langues parlées",
 		"Language": "Langue"
 	},
 
 	"interests": {
 		"Interests": "Intérêts",
-		"Brands": "Marques",
 		"welcome_text_1": "Quels sont vos intérêts préférés?",
-		"Max_Interests_Limit_Alert": "Vous avez sélectionné le nombre maximum d'intérêts, d'autres seront disponibles prochainement.",
 		"Back_to_Interests": "Retour aux intérêts",
 		"Next_Interest": "Intérêt Suivant"
 	},
@@ -205,7 +172,7 @@
 		"welcome_text_2": "Changer votre email requiert une confirmation.",
 		"Alert_Change_Email": "Votre Email n'est pas vérifié, un lien de confirmation vous a été envoyé.",
 		"Resend_Confirmation": "Renvoyer Confirmation",
-		"Cancel_change": "Annuler le changement",
+		"Cancel_Email_change": "Annuler le changement d'Email",
 		"Email_Incorrect": "Cet Email est incorrect",
 		"Current_Password_Incorrect": "Mot de Passe actuel erroné",
 		"Password_not_match": "Le mot de passe ne correspond pas",
@@ -215,14 +182,7 @@
 	"settings": {
 		"Settings": "Réglages",
 		"Notifications": "Notifications",
-		"Notifications_Activate_Alert": "Pour activer les notifications, allez dans vos réglages d'applications -> Notifications -> Rentork -> Autoriser Notifications",
-		"Notifications_Deactivate_Alert": "Pour désactiver les notifications, allez dans vos réglages d'applications -> Notifications -> Rentork -> Autoriser Notifications",
 		"Localisation": "Localisation",
-		"Deactivate_account": "Désactiver le compte",
-		"Account_Deactivation": "Désactivation du compte",
-		"Account_deactivation_text_1": "En désactivant votre compte, vous ne verrez plus les annonces de notre réseau, ne gagnerez plus d'argent et ne pourrez pas retirer vos gains.",
-		"Account_deactivation_text_2": "Cependant, vous pouvez réactiver votre compte en vous connectant à l'application quand vous voulez et toutes vos données seront restaurées.",
-		"Confirm_Deactivation": "Confirmer Désactivation",
 		"Language": "Langue"
 	},
 
@@ -252,23 +212,19 @@
 		"Paypal_Email": "Email Paypal",
 		"Wire_Transfer": "Virement bancaire",
 		"Bank_Name": "Nom de la banque",
-		"Bank_Account": "Numéro de compte / IBAN",
+		"Bank_Account": "Numéro de compte",
 		"BIC_SWIFT": "BIC / SWIFT"
 	},
 
 	"sponsorship": {
 		"Sponsorship": "Parrainage",
-		"Overview": "Aperçu",
 		"Share_to_your_Friends": "Partagez à vos amis",
 		"welcome_text_1": "Faites la promotion de l'application et obtenez",
-		"welcome_text_2": "par partage sur Facebook chaque semaine et ",
-		"welcome_text_3": "par ami installant l'application",
-		"Already_Shared": "Vous ne pouvez partager qu'une fois par semaine par réseau social.",
-		"Shares": "Partages",
-		"Clicks_on_Shares": "Clics sur Partages",
-		"App_Installs": "Installations",
-		"Conversion_Rate": "Taux de Conversion",
-		"Share_with": "Partager avec"
+		"welcome_text_2": "par partage chaque semaine et ",
+		"welcome_text_3": "Invitez vos amis avec Facebook et Obtenez",
+		"welcome_text_4": "à l'installation de l'application par vos amis.",
+		"share_commission": "0.05",
+		"download_commission": "0.20"
 	},
 
 	"privacy": {
@@ -285,52 +241,36 @@
 		"Help": "Aide",
 		"FAQ": "F.A.Q",
 		"welcome_text_1": "Avez-vous besoin d'aide? Trouvez une réponse à vos questions dans la FAQ ci-dessous.",
-
 		"faq_question_1": "1. Quel est le fonctionnement?",
 		"faq_answer_1": "Rentork est une Intelligence Artificielle et une solution publicitaire permettant aux utilisateurs de gagner de l'argent en louant leurs données. Les annonceurs peuvent créer des campagnes ciblées pour atteindre des personnes spécifiques et devront payer en fonction de la valeur du profil de l'utilisateur et de ses intérêts. Chaque fois qu'un annonceur est facturé pour une vue ou une action sur ses annonces, l'utilisateur obtient sa commission.",
-
 		"faq_question_2": "2. Quel est l'âge minimum pour participer?",
 		"faq_answer_2": "L'âge minimum pour utiliser Rentork est de 13 ans. Toutefois, si vous avez moins de 18 ans, vous devez télécharger le formulaire d'autorisation et le faire signer par vos parents.",
-
 		"faq_question_3": "3. Dois-je compléter tous les champs?",
 		"faq_answer_3": "Non, vous n'êtes pas obligé de remplir tous les champs, mais plus vous en complétez, plus la valeur de votre profil augmente.",
-
 		"faq_question_4": "4. Mes données sont-elles sécurisées et comment?",
 		"faq_answer_4": "Oui, vos données sont hautement sécurisées sur nos serveurs avec un cryptage SHA256.",
-
-		"faq_question_5": "5. Les annonceurs ont-ils accès à mes données?",
-		"faq_answer_5": "Non, vos données sont confidentielles et servent uniquement au ciblage des annonces, aucun annonceur n'a accès à celles-ci sauf si vous vous inscrivez à son service et que vous l'autorisez à y avoir accès.",
-
-		"faq_question_6": "6. Qu'est-ce que la valeur de mon profil?",
-		"faq_answer_6": "La valeur de votre profil est calculée selon les informations remplies sur l'application. Plus votre profil est détaillé, plus votre valeur augmente et par conséquent plus vous gagnez lorsque vous voyez une de nos annonces ou effectuez une action.",
-
-		"faq_question_7": "7. Quand/Où je gagne de l'argent et combien?",
-		"faq_answer_7": "Vous gagnez de l'argent sur les sites Web que vous visitez et les applications que vous utilisez tous les jours quand vous voyez une annonce de notre réseau ou lorsque vous faites une action. Le montant que vous pouvez gagner dépend de la valeur de votre profil, vos actions et votre activité. Si votre profil, vos données démographiques et vos intérêts sont bien détaillés vous gagnerez plus.",
-
-		"faq_question_8": "8. Est-ce que je gagne de l'argent sur toutes les publicités que je vois?",
-		"faq_answer_8": "Non, vous gagnez de l'argent seulement sur les publicités de nos annonceurs partout sur les sites Web que vous visitez et les applications que vous utilisez. Notre réseau grandit très vite et nous avons de nouveaux partenaires qui rejoignent tous les jours notre solution.",
-
-		"faq_question_9": "9. Comment je gagne de l'argent pour mes actions?",
-		"faq_answer_9": "Vous pouvez gagner de l'argent sur des actions spécifiques comme l'inscription à un service, le téléchargement d'une application, en effectuant des achats en ligne, en aimant une Page Facebook, en regardant des vidéos ...",
-
-		"faq_question_10": "10. Quel est le montant minimum pour obtenir un paiement?",
-		"faq_answer_10": "Le montant minimum est seulement de $5, lorsque vous atteignez ce seuil, vous pouvez remplir vos informations de paiement et recevoir votre argent.",
-
-		"faq_question_11": "11. Comment suis-je payé et quand?",
-		"faq_answer_11": "Vous pouvez recevoir votre argent par virement bancaire ou Paypal. Les paiements sont automatiquement effectués chaque 10 du mois pour vos gains disponibles.",
-
-		"faq_question_12": "12. Dois-je déclarer ce que j'ai gagné?",
-		"faq_answer_12": "Oui, vous devez déclarer ce que vous avez gagné, même si vous ne payez pas de taxes dessus, c'est en fonction du seuil d'imposition de votre pays."
+		"faq_question_5": "5. Quand/Où je gagne de l'argent et combien?",
+		"faq_answer_5": "Vous gagnez de l'argent sur les sites Web que vous visitez et les applications que vous utilisez tous les jours quand vous voyez une annonce de notre réseau ou lorsque vous faites une action. Le montant que vous pouvez gagner dépend de la valeur de votre profil, vos actions et votre activité. Si votre profil, vos données démographiques et vos intérêts sont bien détaillés vous gagnerez plus.",
+		"faq_question_6": "6. Est-ce que je gagne de l'argent sur toutes les publicités que je vois?",
+		"faq_answer_6": "Non, vous gagnez de l'argent seulement sur les publicités de nos annonceurs partout sur les sites Web que vous visitez et les applications que vous utilisez. Notre réseau grandit très vite et nous avons de nouveaux partenaires qui rejoignent tous les jours notre solution.",
+		"faq_question_7": "7. Comment je gagne de l'argent pour mes actions?",
+		"faq_answer_7": "Vous pouvez gagner de l'argent sur des actions spécifiques comme l'inscription à un service, le téléchargement d'une application, en effectuant des achats en ligne, en aimant une Page Facebook, en regardant des vidéos ...",
+		"faq_question_8": "8. Quel est le montant minimum pour obtenir un paiement?",
+		"faq_answer_8": "Le montant minimum est seulement de $5, lorsque vous atteignez ce seuil, vous pouvez remplir vos informations de paiement et recevoir votre argent.",
+		"faq_question_9": "9. Comment suis-je payé et quand?",
+		"faq_answer_9": "Vous pouvez recevoir votre argent par virement bancaire ou Paypal. Les paiements sont automatiquement effectués chaque 10 du mois pour vos gains disponibles.",
+		"faq_question_10": "10. Dois-je déclarer ce que j'ai gagné?",
+		"faq_answer_10": "Oui, vous devez déclarer ce que vous avez gagné, même si vous ne payez pas de taxes dessus, c'est en fonction du seuil d'imposition de votre pays."
 	},
 
 	"contact": {
 		"Contact_Us": "Contactez-nous",
-		"welcome_text_1": "N'hésitez pas à nous contacter pour toute question ou demande de renseignement.",
+		"welcome_text_1": "N'hésitez pas à nous contacter pour toute question ou demande de renseignement au sujet de Rentork.",
 		"Subject": "Sujet",
 		"General_Inquiry": "Demande Générale",
 		"Technical_Issue": "Souci Technique / Bug",
 		"Accounting": "Comptabilité",
-		"Friendly_Message": "Message d'encouragement",
+		"Just_a_Friendly_Message": "Un message d'Encouragement",
 		"Your_Message": "Votre message",
 		"Send_Contact": "Envoyer le contact"
 	},

@@ -1,4 +1,8 @@
 [{
+	"id": "about",
+	"name": "À Propos",
+	"icon": "ion-ios-lightbulb"
+}, {
 	"id": "account",
 	"name": "Compte",
 	"icon": "ion-person"
@@ -10,6 +14,10 @@
 	"id": "payout",
 	"name": "Paiement",
 	"icon": "ion-cash"
+}, {
+	"id": "sponsorship",
+	"name": "Parrainage",
+	"icon": "ion-ios-people"
 }, {
 	"id": "privacy",
 	"name": "Confidentialité",
@@ -26,4 +34,8 @@
 	"id": "contact",
 	"name": "Contact",
 	"icon": "ion-android-mail"
+}, {
+	"id": "logout",
+	"name": "Déconnexion",
+	"icon": "ion-power"
 }]
