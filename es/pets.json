@@ -1,9 +1,0 @@
-[
-	{"id":"birds","name":"Aves"},
-	{"id":"cats","name":"Gatoss"},
-	{"id":"dogs","name":"Perros"},
-	{"id":"fish","name":"Peces"},
-	{"id":"horses","name":"Caballos"},
-	{"id":"rabbits","name":"Conejos"},
-	{"id":"reptiles","name":"Reptiles"}
-]

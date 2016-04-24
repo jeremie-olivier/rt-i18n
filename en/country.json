@@ -7,7 +7,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -109,7 +109,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -142,7 +142,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -190,7 +190,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -247,7 +247,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -361,7 +361,7 @@
 	"currency_code": "CAD",
 	"currency_name": "Canadian Dollar",
 	"currency_symbol": "CA$",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -412,7 +412,7 @@
 	"currency_code": "CHE",
 	"currency_name": "",
 	"currency_symbol": "",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -523,7 +523,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -544,7 +544,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -607,7 +607,7 @@
 	"currency_code": "USD",
 	"currency_name": "US Dollar",
 	"currency_symbol": "$",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -619,7 +619,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -658,7 +658,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -679,7 +679,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -727,7 +727,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -775,7 +775,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -841,7 +841,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -862,7 +862,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -988,7 +988,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -1066,7 +1066,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -1078,7 +1078,7 @@
 	"currency_code": "GBP",
 	"currency_name": "British Pound Sterling",
 	"currency_symbol": "&pound;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -1294,7 +1294,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -1306,7 +1306,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -1339,7 +1339,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -1360,7 +1360,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -1372,7 +1372,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -1456,7 +1456,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -1486,7 +1486,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -1612,7 +1612,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -1756,7 +1756,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -1801,7 +1801,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -1846,7 +1846,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -1963,7 +1963,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -1984,7 +1984,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -2005,7 +2005,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -2098,7 +2098,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -2262,7 +2262,10 @@
 	"calling_code": "1",
 	"currency_code": "USD",
 	"currency_name": "US Dollar",
-	"currency_symbol": "$"
+	"currency_symbol": "$",
+	"payout_treshold": "5.00",
+	"sponsorship_share_commission": "0.05",
+	"sponsorship_download_commission": "0.15"
 }, {
 	"id": "UY",
 	"name": "Uruguay",
@@ -2290,7 +2293,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {
@@ -2383,7 +2386,7 @@
 	"currency_code": "EUR",
 	"currency_name": "Euro",
 	"currency_symbol": "&euro;",
-	"payout_treshold": "5",
+	"payout_treshold": "5.00",
 	"sponsorship_share_commission": "0.05",
 	"sponsorship_download_commission": "0.15"
 }, {

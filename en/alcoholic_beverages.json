@@ -2,7 +2,6 @@
 	{"id":"beer","name":"Beer"},
 	{"id":"cider","name":"Cider"},
 	{"id":"champagne","name":"Champagne"},
-	{"id":"distilled_beverages","name":"Distilled Beverage"},
 	{"id":"pink_wine","name":"Pink Wine"},
 	{"id":"red_wine","name":"Red Wine"},
 	{"id":"white_wine","name":"White Wine"},

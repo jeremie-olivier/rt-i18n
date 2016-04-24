@@ -1,120 +1,61 @@
 {
-	"Demographics": {
-		"relationship": {
-			"name": "Estado Civil", 
-			"multiple": "1",
-			"choice": "single"
-		},
-		"sex_orientation": {
-			"name": "Orientación Sexual", 
-			"multiple": "1",
-			"choice": "single"
-		},
-		"housing_status": {
-			"name": "Estatus de vivienda", 
-			"multiple": "1",
-			"choice": "single"
-		},
-		"housing": {
-			"name": "Vivienda", 
-			"multiple": "1",
-			"choice": "single"
-		},
-		"children": {
-			"name": "Hijos", 
-			"multiple": "1",
-			"choice": "single"
-		},
-		"job_titles": {
-			"name": "Empleo", 
-			"multiple": "1",
-			"choice": "single"
-		},
-		"industries": {
-			"name": "Industria", 
-			"multiple": "1",
-			"choice": "single"
-		},
-		"incomes": {
-			"name": "Ingresos", 
-			"multiple": "1",
-			"choice": "single"
-		},
-		"languages": {
-			"name": "Idiomas hablados", 
-			"multiple": "1",
-			"choice": "multiple"
-		}
-	},
-	"brands_products": {
-		"name": "Marcas / Productos",
-		"icon": "ion-android-star",
-		"brands_products_technology": {
-			"name": "Tecnologias",
-			"multiple": "1"
-		},
-		"brands_products_food": {
-			"name": "Comida", 
-			"multiple": "1"
-		}
-	},
 	"business_industries": {
-		"name": "Negocios / Industrias",
+		"name": "Affaires / Industries",
 		"icon": "ion-ios-briefcase",
 		"advertising": {
-			"name": "Publicidad",
+			"name": "Publicité",
 			"multiple": "0"
 		},
 		"agriculture": {
-			"name": "Agricultura", 
+			"name": "Agriculture", 
 			"multiple": "0"
 		},
 		"architecture": {
-			"name": "Arquitectura", 
+			"name": "Architecture", 
 			"multiple": "0"
 		},
 		"aviation": {
-			"name": "Aviación", 
+			"name": "Aviation", 
 			"multiple": "0"
 		},
 		"banking": {
-			"name": "Bancario", 
+			"name": "Bancaire", 
 			"multiple": "1"
 		},
 		"business": {
-			"name": "Negocios", 
+			"name": "Affaires", 
 			"multiple": "0"
 		},
 		"construction": {
-			"name": "Construcción", 
+			"name": "Construction", 
 			"multiple": "0"
 		},
 		"design": {
-			"name": "Diseño", 
+			"name": "Design", 
 			"multiple": "1"
 		},
 		"economics": {
-			"name": "Economía", 
+			"name": "Économie", 
 			"multiple": "0"
 		},
 		"engineering": {
-			"name": "Ingeniería", 
+			"name": "Ingénierie", 
 			"multiple": "0"
 		},
 		"entrepreneurship": {
-			"name": "Emprendimiento", 
+			"name": "Entreprenariat", 
 			"multiple": "0"
 		},
 		"health_care": {
-			"name": "Cuidados de la Salud", 
+			"name": "Soins de Santé", 
 			"multiple": "0"
 		},
 		"higher_education": {
-			"name": "Enseñanza Superior", 
+			"name": "Enseignement Supérieur", 
 			"multiple": "0"
 		},
 		"management": {
-			"name": "Administración", 
+			"name": "Management", 
 			"multiple": "0"
 		},
 		"marketing": {
@@ -122,7 +63,7 @@
 			"multiple": "0"
 		},
 		"nursing": {
-			"name": "Enfermería", 
+			"name": "Infirmières", 
 			"multiple": "0"
 		},
 		"online": {
@@ -130,51 +71,51 @@
 			"multiple": "1"
 		},
 		"personal_finance": {
-			"name": "Finanzas Personales", 
+			"name": "Finances Personnelles", 
 			"multiple": "1"
 		},
 		"real_estate": {
-			"name": "Bienes raíces", 
+			"name": "Immobilier", 
 			"multiple": "0"
 		},
 		"retail": {
-			"name": "Venta al por menor", 
+			"name": "Vente au Détail", 
 			"multiple": "0"
 		},
 		"sales": {
-			"name": "Ventas", 
+			"name": "Ventes", 
 			"multiple": "0"
 		},
 		"sciences": {
-			"name": "Ciencias", 
+			"name": "Sciences", 
 			"multiple": "0"
 		},
 		"small_business": {
-			"name": "Empresas pequeñas", 
+			"name": "Petites Entreprises", 
 			"multiple": "0"
 		}
 	},
 	"entertainment": {
-		"name": "Entretenimiento",
+		"name": "Divertissement",
 		"icon": "ion-film-marker",
 		"games": {
-			"name": "Juegos", 
+			"name": "Jeux", 
 			"multiple": "1"
 		},
 		"live_events": {
-			"name": "Eventos en vivo", 
+			"name": "Évènements Live", 
 			"multiple": "1"
 		},
 		"music": {
-			"name": "Música", 
+			"name": "Musique", 
 			"multiple": "1"
 		},
 		"movies": {
-			"name": "Películas", 
+			"name": "Films", 
 			"multiple": "1"
 		},
 		"reading": {
-			"name": "Lectura", 
+			"name": "Lecture", 
 			"multiple": "1"
 		},
 		"tv": {
@@ -183,78 +124,78 @@
 		}
 	},
 	"family_relationship": {
-		"name": "Familia / Relaciones",
+		"name": "Famille / Relations",
 		"icon": "ion-ios-people",
 		"dating": {
-			"name": "Encuentros", 
+			"name": "Rencontres", 
 			"multiple": "0"
 		},
 		"family": {
-			"name": "Familia", 
+			"name": "Famille", 
 			"multiple": "0"
 		},
 		"fatherhood": {
-			"name": "Paternidad", 
+			"name": "Paternité", 
 			"multiple": "0"
 		},
 		"friendship": {
-			"name": "Amistades", 
+			"name": "Amitiés", 
 			"multiple": "0"
 		},
 		"mariage": {
-			"name": "Matrimonio", 
+			"name": "Mariage", 
 			"multiple": "0"
 		},
 		"motherhood": {
-			"name": "Maternidad", 
+			"name": "Maternité", 
 			"multiple": "0"
 		},
 		"parenting": {
-			"name": "Padres", 
+			"name": "Parents", 
 			"multiple": "0"
 		},
 		"weddings": {
-			"name": "Boda", 
+			"name": "Noces", 
 			"multiple": "0"
 		}
 	},
 	"fitness_wellness": {
-		"name": "Forma / Bienestar",
+		"name": "Forme / Bien-être",
 		"icon": "ion-ios-pulse-strong",
 		"bodybuilding": {
 			"name": "Bodybuilding", 
 			"multiple": "0"
 		},
 		"dieting": {
-			"name": "Dieta", 
+			"name": "Régime", 
 			"multiple": "0"
 		},
 		"gyms": {
-			"name": "Gimnasia", 
+			"name": "Gymnastique", 
 			"multiple": "0"
 		},
 		"meditation": {
-			"name": "Meditación", 
+			"name": "Meditation", 
 			"multiple": "0"
 		},
 		"nutrition": {
-			"name": "Nutrición", 
+			"name": "Nutrition", 
 			"multiple": "0"
 		},
 		"physical_exercises": {
-			"name": "Ejercicios Físicos", 
+			"name": "Exercices Physiques", 
 			"multiple": "0"
 		},
 		"physical_fitness": {
-			"name": "Actitud Física", 
+			"name": "Forme Physique", 
 			"multiple": "0"
 		},
 		"running": {
-			"name": "Carreras", 
+			"name": "Course", 
 			"multiple": "0"
 		},
 		"weight_training": {
-			"name": "Pérdida de Peso", 
+			"name": "Perte de Poids Physique", 
 			"multiple": "0"
 		},
 		"yoga": {
@@ -267,106 +208,106 @@
 		}
 	},
 	"food_drink": {
-		"name": "Comida / Bebidas",
+		"name": "Nourriture / Boissons",
 		"icon": "ion-android-restaurant",
 		"alcoholic_beverages": {
-			"name": "Bebidas Alcoholicas", 
+			"name": "Boissons Alcoolisées", 
 			"multiple": "1"
 		},
 		"beverages": {
-			"name": "Bebidas no-alcohólicas", 
+			"name": "Boissons non-alcoolisées", 
 			"multiple": "1"
 		},
 		"cooking": {
-			"name": "Cocinar", 
+			"name": "Cuisiner", 
 			"multiple": "1"
 		},
 		"cuisine": {
-			"name": "Cocina", 
+			"name": "Cuisine", 
 			"multiple": "1"
 		},
 		"food": {
-			"name": "Comida", 
+			"name": "Nourriture", 
 			"multiple": "1"
 		},
 		"restaurants": {
-			"name": "Restaurantes", 
+			"name": "Restaurants", 
 			"multiple": "1"
 		}
 	},
 	"hobbies_activities": {
-		"name": "Hobbies / Actividades",
+		"name": "Loisirs / Activités",
 		"icon": "ion-plane",
 		"arts_music": {
-			"name": "Arte / Musica", 
+			"name": "Arts / Musique", 
 			"multiple": "1"
 		},
 		"home_garden": {
-			"name": "Casa / Jardinería", 
+			"name": "Maison / Jardinage", 
 			"multiple": "1"
 		},
 		"pets": {
-			"name": "Animales", 
+			"name": "Animaux", 
 			"multiple": "1"
 		},
 		"politics_social_issues": {
-			"name": "Política / Problemas Sociales", 
+			"name": "Politique / Problèmes Sociaux", 
 			"multiple": "1"
 		},
 		"travel": {
-			"name": "Viajes", 
+			"name": "Voyages", 
 			"multiple": "1"
 		},
 		"vehicles": {
-			"name": "Vehículos", 
+			"name": "Véhicules", 
 			"multiple": "1"
 		}
 	},
 	"shopping_fashion": {
-		"name": "Shopping / Moda",
+		"name": "Shopping / Mode",
 		"icon": "ion-ios-cart",
 		"beauty": {
-			"name": "Belleza", 
+			"name": "Beauté", 
 			"multiple": "1"
 		},
 		"clothing": {
-			"name": "Vestimenta", 
+			"name": "Vêtements", 
 			"multiple": "1"
 		},
 		"fashion_accessories": {
-			"name": "Accesorios de Moda", 
+			"name": "Accessoires de Mode", 
 			"multiple": "1"
 		},
 		"shopping": {
-			"name": "Compras", 
+			"name": "Shopping", 
 			"multiple": "1"
 		},
 		"toys": {
-			"name": "Juguetes", 
+			"name": "Jouets", 
 			"multiple": "0"
 		}
 	},
 	"sports_outdoors": {
-		"name": "Deportes / Aire Libre",
+		"name": "Sports / Plein Air",
 		"icon": "ion-ios-americanfootball",
 		"outdoors_recreation": {
-			"name": "Tiempo Libre", 
+			"name": "Loisirs Plein Air", 
 			"multiple": "1"
 		},
 		"sports": {
-			"name": "Deportes", 
+			"name": "Sports", 
 			"multiple": "1"
 		}
 	},
 	"technology": {
-		"name": "Tecnologias",
+		"name": "Technologies",
 		"icon": "ion-android-settings",
 		"computers": {
-			"name": "Computadoras", 
+			"name": "Ordinateurs", 
 			"multiple": "1"
 		},
 		"consumer_eletronics": {
-			"name": "Artículos electrónicos de consumo", 
+			"name": "Électronique Grand Public", 
 			"multiple": "1"
 		}
 	}

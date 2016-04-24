@@ -1,7 +1,7 @@
 {
 	"caption": "Rentork",
 	"name": "L'Ubérisation de vos données ou comment enfin générer un revenu sur Internet grâce à votre profil.",
-	"description": "Cette application vous permet de louer vos données sur Internet et d'obtenir votre commission à chaque publicité vue sur vos applications et sites web favoris.",
+	"description": "L'Ubérisation de vos données ou comment enfin générer un revenu sur Internet grâce à votre profil.",
 	"picture": "https://s3-us-west-1.amazonaws.com/rentork/mobile/i18n/fr/img/share/Rentork-Promo-Share-001.png",
 	"link": "http://rentork.com/sca/#/click/app-share",
 	"callback": "http://m-api.rentork.com/user/social_share/"

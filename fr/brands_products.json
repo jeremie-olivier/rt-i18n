@@ -1,0 +1,26 @@
+{
+	"technology": {
+		"name": "Technology",
+		"icon": "ion-android-settings",
+		"apple": {
+			"name": "Apple",
+			"multiple": "0"
+		},
+		"android": {
+			"name": "Android",
+			"multiple": "0"
+		}
+	},
+	"sports_outdoors": {
+		"name": "Sports / Outdoors",
+		"icon": "ion-ios-americanfootball",
+		"nike": {
+			"name": "Nike", 
+			"multiple": "0"
+		},
+		"adidas": {
+			"name": "Adidas",
+			"multiple": "0"
+		}
+	}
+}
